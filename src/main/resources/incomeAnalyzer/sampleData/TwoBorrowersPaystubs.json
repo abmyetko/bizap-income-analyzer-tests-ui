@@ -1,0 +1,498 @@
+[
+	{
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "662,40"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "12,800.00"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2019"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/15/2019"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "999-40-5000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Burger King"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Martin Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "6756,40"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "19900.00"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2018"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/15/2018"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "999-40-5000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Burger King"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Martin Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "75302,40"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "175300.00"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2017"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/15/2017"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "999-40-5000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Burger King"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Martin Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "3138.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "9815.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/01/2019"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/14/2019"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "TriCounty Medical"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "1000.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "11111.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/01/2018"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/14/2018"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "TriCounty Medical"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "1050.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "8888.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/01/2017"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/14/2017"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "TriCounty Medical"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "3138.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "29815.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/15/2019"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/30/2019"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Pizza Hut"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "3738.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "35815.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/15/2018"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/30/2018"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Pizza Hut"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "2045.45"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "12500.28"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "06/15/2017"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "06/30/2017"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Pizza Hut"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "8134.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "113884.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/16/2019"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2019"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Dept of Interior"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "8134.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "13884.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2018"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2018"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Dept of Interior"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "7934.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "14484.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2017"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2017"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "Dept of Interior"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "9999.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "123456.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2019"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2019"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "JobWithMultipleIncomes"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "5599.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "78901.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2018"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2018"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "JobWithMultipleIncomes"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}, {
+		"type": "Paystub",
+		"refId": "paystub001",
+		"fields": [{
+				"refId": "0310695",
+				"name": "IncomeItemAmount",
+				"value": "43585.62"
+			}, {
+				"refId": "0310696",
+				"name": "IncomeItemYearToDateAmount",
+				"value": "45789.68"
+			}, {
+				"refId": "0310698",
+				"name": "DocumentPeriodStartDate",
+				"value": "09/01/2017"
+			}, {
+				"refId": "0310699",
+				"name": "DocumentPeriodEndDate",
+				"value": "09/30/2017"
+			}, {
+				"refId": "0310689",
+				"name": "TaxpayerIdentifierValue",
+				"value": "500-22-2000"
+			}, {
+				"refId": "0310687",
+				"name": "EmployerName",
+				"value": "JobWithMultipleIncomes"
+			}, {
+				"refId": "0310687",
+				"name": "FullName",
+				"value": "Mary Homeowner"
+			}
+		]
+	}
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "dataSourceStatus": "EXTRACTED",
+    "siteGuid": "6e1b2800-1b84-11ea-a732-73c4ba6a9399",
+    "folderId": "5785",
+    "dataSourceId": "DSO9D843A13-B1C6-088F-F8B8-836E80A6795C",
+    "documentId": "DTDC44F5BC-6A3F-F4FC-9719-F8739C71C230",
+    "canonicalDocumentType": "PAYSTUB",
+    "dvFolderId": "FX59CFBA70-B61F-83C4-98C5-F00B8E796FB6",
+    "documentTags": [],
+    "canonicalPayload": {
+      "id": "DSO9D843A13-B1C6-088F-F8B8-836E80A6795C",
+      "applicant": [
+        {
+          "id": "APPLICANT::5427B1682554884D",
+          "collaboratorId": "CLB8F920A34-C1E4-30BC-CF73-E2492D52E956",
+          "name": {
+            "id": "APPLICANT::5427B1682554884D#NAME::852AFF7B141E6842",
+            "fullName": "John Homeowner",
+            "firstName": "John",
+            "lastName": "Homeowner"
+          },
+          "roleDetail": {
+            "id": "APPLICANT::5427B1682554884D#ROLE_DETAIL::15CD1509C118322E",
+            "partyRoleType": "Borrower"
+          },
+          "taxpayerIdentifier": [
+            {
+              "id": "APPLICANT::5427B1682554884D#TAXPAYER_IDENTIFIER::32DF070950C9E755",
+              "taxpayerIdentifierType": "SocialSecurityNumber",
+              "taxpayerIdentifierValue": "999405000"
+            }
+          ],
+          "employer": [
+            {
+              "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686",
+              "legalEntity": {
+                "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#LEGAL_ENTITY::309B2F0C1A5E0DD5",
+                "legalEntityDetail": {
+                  "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#LEGAL_ENTITY::309B2F0C1A5E0DD5#LEGAL_ENTITY_DETAIL::4D8B0399B658EFD0",
+                  "fullName": "Awesome Computers"
+                }
+              },
+              "address": {
+                "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#ADDRESS::34AE7C0EF79D89FD",
+                "addressLineText": "One",
+                "cityName": "Boston",
+                "postalCode": "02108",
+                "stateCode": "MA"
+              },
+              "employment": {
+                "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#EMPLOYMENT::AF16A82AA8F170D3",
+                "employmentIncomeAmount": 1000.0,
+                "employmentIncomeNetAmount": 1000.0,
+                "employmentIncomeExplicitFrequencyType": "Biweekly"
+              },
+              "incomeItem": [
+                {
+                  "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#INCOME_ITEM::408214FD311C2C9C",
+                  "incomeItemSummary": {
+                    "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#INCOME_ITEM::408214FD311C2C9C#INCOME_ITEM_SUMMARY::4DD6247A9A8F0004",
+                    "applicantTotalYearToDateIncomeAmount": 33143.08,
+                    "applicantTotalYearToDateIncomeNetAmount": 23358.74
+                  },
+                  "incomeDocumentation": {
+                    "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#INCOME_ITEM::408214FD311C2C9C#INCOME_DOCUMENTATION::C1413AE65615F9F9",
+                    "documentPeriodStartDate": "2020-04-21",
+                    "documentPeriodEndDate": "2020-05-03",
+                    "incomePayCheckDate": "2020-05-09"
+                  }
+                },
+                {
+                  "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#INCOME_ITEM::29EA2A58B44FAAA6",
+                  "incomeItemDetail": [
+                    {
+                      "id": "APPLICANT::5427B1682554884D#EMPLOYER::FCB0A0AEE68FA686#INCOME_ITEM::29EA2A58B44FAAA6#INCOME_ITEM_DETAIL::59D5A37BD6C94A1B",
+                      "incomeType": "Base",
+                      "incomeTypeHourlyPayRatePercent": 250.0,
+                      "incomeTypeTotalAmount": 1000.0,
+                      "incomeTypeYearToDateAmount": 20000.0
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "applicantDetail": {
+            "id": "APPLICANT::5427B1682554884D#APPLICANT_DETAIL::5CFD419BD3CE308D"
+          },
+          "address": {
+            "id": "APPLICANT::5427B1682554884D#ADDRESS::A1D2FE7F841B55CF",
+            "addressLineText": "0",
+            "cityName": "Worcester",
+            "postalCode": "01610",
+            "stateCode": "MA"
+          },
+          "irsTaxDocument": [
+            {
+              "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10",
+              "irsTaxDocumentData": {
+                "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1",
+                "incomeTaxItem": [
+                  {
+                    "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::E0332D18DB0EC7CE",
+                    "incomeTaxItemDetail": {
+                      "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::E0332D18DB0EC7CE#INCOME_TAX_ITEM_DETAIL::8BF89B6DA7CC22FE",
+                      "incomeTaxType": "Other",
+                      "incomeTaxTypeOtherDescription": "MA Withholdng",
+                      "incomeTaxAmount": 99.2,
+                      "incomeTaxYearToDateAmount": 1518.39
+                    }
+                  },
+                  {
+                    "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::1B58557A76962F6B",
+                    "incomeTaxItemDetail": {
+                      "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::1B58557A76962F6B#INCOME_TAX_ITEM_DETAIL::F199CFF3011EED19",
+                      "incomeTaxType": "Other",
+                      "incomeTaxTypeOtherDescription": "Fed Withholdng",
+                      "incomeTaxAmount": 196.4
+                    }
+                  },
+                  {
+                    "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::04C42F6E3BDBE708",
+                    "incomeTaxItemDetail": {
+                      "id": "APPLICANT::5427B1682554884D#IRS_TAX_DOCUMENT::EAFB005F4C06AE10#IRS_TAX_DOCUMENT_DATA::7C949428D6FD11D1#INCOME_TAX_ITEM::04C42F6E3BDBE708#INCOME_TAX_ITEM_DETAIL::C18AEF0D566D3260",
+                      "incomeTaxType": "Medicare",
+                      "incomeTaxAmount": 28.48,
+                      "incomeTaxYearToDateAmount": 464.73
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "created": "2020-04-29T06:10:40",
+    "modified": "2020-04-29T06:10:40",
+    "dateReceived": "2020-04-29T06:07:07",
+    "dateClientReceived": "2020-04-29T06:07:07",
+    "conversionDateTime": "2020-04-29T06:10:08.099098"
+  }
+]

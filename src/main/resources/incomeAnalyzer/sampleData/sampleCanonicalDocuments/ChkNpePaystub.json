@@ -1,0 +1,169 @@
+[
+  {
+    "dataSourceStatus": "EXTRACTED",
+    "siteGuid": "df8fcbc0-0ab2-11ea-ab68-8d445d9b2b0d",
+    "folderId": "47273",
+    "dataSourceId": "DSO53498443243",
+    "documentId": "DT53498443243",
+    "canonicalDocumentType": "PAYSTUB",
+    "sourceCanonicalDocumentType": null,
+    "dvFolderId": "FX904F5CCC-DE10-C16B-9148-D7F5AB01A016",
+    "documentTags": [],
+    "canonicalPayload": {
+      "id": "DSO53498443243",
+      "applicant": [
+        {
+          "id": "APPLICANT::1E3AD9A712FCA1DB",
+          "collaboratorId": "CLB86FB9310-B8C5-5CB1-0143-493086CF54E1",
+          "name": {
+            "id": "APPLICANT::19855FFF49A21B4D#NAME::C22931BC8DE56965",
+            "fullName": "Broken Mary",
+            "firstName": "John",
+            "middleName": null,
+            "lastName": "Homeowner",
+            "suffixName": null,
+            "functionalTitleDescription": null
+          },
+          "roleDetail": {
+            "id": "APPLICANT::1E3AD9A712FCA1DB#ROLE_DETAIL::FBC2896B14C34682",
+            "partyRoleType": "Borrower"
+          },
+          "taxpayerIdentifier": [
+            {
+              "id": "APPLICANT::1E3AD9A712FCA1DB#TAXPAYER_IDENTIFIER::AC1138CE6F772F78",
+              "taxpayerIdentifierType": "SocialSecurityNumber",
+              "taxpayerIdentifierValue": "500222000"
+            }
+          ],
+          "employer": [
+            {
+              "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693",
+              "address": {
+                "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#ADDRESS::04923A7E65773DAB",
+                "addressLineText": "",
+                "addressAdditionalLineText": null,
+                "cityName": "",
+                "postalCode": "",
+                "stateCode": "",
+                "plusFourZipCode": null,
+                "addressType": null,
+                "countryName": null
+              },
+              "employment": {
+                "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#EMPLOYMENT::28AD9607DFCAB71E",
+                "employmentIncomeAmount": null,
+                "employmentIncomeNetAmount": 3275.28,
+                "employmentIncomeFrequencyType": null,
+                "employmentIncomeExplicitFrequencyType": null,
+                "payType": null
+              },
+              "incomeItem": [
+                {
+                  "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C",
+                  "incomeItemDetail": [
+                    {
+                      "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_ITEM_DETAIL::B5E584F3B406E199",
+                      "incomeType": "Other",
+                      "incomeStatusType": null,
+                      "incomeTypeOtherDescription": "Attend Bouns",
+                      "incomeTypeHourlyPayRatePercent": null,
+                      "incomeTypePeriodHoursNumber": null,
+                      "incomeTypeTotalAmount": null,
+                      "incomeTypeYearToDateAmount": null
+                    },
+                    {
+                      "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_ITEM_DETAIL::A052A590E2F5D69E",
+                      "incomeType": "Commissions",
+                      "incomeStatusType": null,
+                      "incomeTypeOtherDescription": null,
+                      "incomeTypeHourlyPayRatePercent": null,
+                      "incomeTypePeriodHoursNumber": null,
+                      "incomeTypeTotalAmount": 1600,
+                      "incomeTypeYearToDateAmount": 8000
+                    },
+                    {
+                      "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_ITEM_DETAIL::A4F82614E95E7B28",
+                      "incomeType": "Base",
+                      "incomeStatusType": null,
+                      "incomeTypeOtherDescription": null,
+                      "incomeTypeHourlyPayRatePercent": null,
+                      "incomeTypePeriodHoursNumber": 175,
+                      "incomeTypeTotalAmount": 2561.61,
+                      "incomeTypeYearToDateAmount": 0
+                    },
+                    {
+                      "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_ITEM_DETAIL::DA12F9065FCC82B3",
+                      "incomeType": "Overtime",
+                      "incomeStatusType": null,
+                      "incomeTypeOtherDescription": null,
+                      "incomeTypeHourlyPayRatePercent": 1,
+                      "incomeTypePeriodHoursNumber": 2,
+                      "incomeTypeTotalAmount": 0,
+                      "incomeTypeYearToDateAmount": 0
+                    }
+                  ],
+                  "incomeItemSummary": {
+                    "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_ITEM_SUMMARY::4FA48472F41916CC",
+                    "applicantTotalYearToDateIncomeAmount": null,
+                    "applicantTotalYearToDateIncomeNetAmount": 18000
+                  },
+                  "incomeDocumentation": {
+                    "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#INCOME_ITEM::74621C0FF21DDE5C#INCOME_DOCUMENTATION::1C1A91DABCD8F89C",
+                    "documentPeriodStartDate": "2019-03-19",
+                    "documentPeriodEndDate": "2019-10-24",
+                    "incomePayCheckDate": "2020-02-21"
+                  }
+                }
+              ],
+              "legalEntity": {
+                "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#LEGAL_ENTITY::23B37E0CE8C6ED151672",
+                "legalEntityDetail": {
+                  "id": "APPLICANT::1E3AD9A712FCA1DB#EMPLOYER::CF433686FD774693#LEGAL_ENTITY::23B37E0CE8C6ED151672#LEGAL_ENTITY_DETAIL::7A77DA56A570D66A3023",
+                  "fullName": "Blue Yonder Airlines"
+                }
+              }
+            }
+          ],
+          "applicantDetail": null,
+          "address": null,
+          "irsTaxDocument": null
+        }
+      ],
+      "expense": [
+        {
+          "id": "APPLICANT::345EB18E4100F89F#IRS_TAX_DOCUMENT::F05E85057B813F20#IRS_TAX_DOCUMENT_DATA::281A470BCC634238#INCOME_TAX_ITEM::119C0BABAEEE0283#INCOME_TAX_ITEM_DETAIL::37C5BFD3BF5F369F",
+          "expenseType": "PayrollFederalTax",
+          "expensePaymentAmount": -340.84,
+          "expensePaymentYearToDateAmount": 1704.2,
+          "expenseTypeOtherDescription": null
+        },
+        {
+          "id": "APPLICANT::345EB18E4100F89F#IRS_TAX_DOCUMENT::F05E85057B813F20#IRS_TAX_DOCUMENT_DATA::281A470BCC634238#INCOME_TAX_ITEM::CD5CA8CB012CE2C8#INCOME_TAX_ITEM_DETAIL::A4B3A9D0E6912DD7",
+          "expenseType": "PayrollMedicareTax",
+          "expensePaymentAmount": 0,
+          "expensePaymentYearToDateAmount": 0,
+          "expenseTypeOtherDescription": null
+        },
+        {
+          "id": "APPLICANT::345EB18E4100F89F#IRS_TAX_DOCUMENT::F05E85057B813F20#IRS_TAX_DOCUMENT_DATA::281A470BCC634238#INCOME_TAX_ITEM::3539E42EE2AF0805#INCOME_TAX_ITEM_DETAIL::3E920AAAD267E009",
+          "expenseType": "PayrollSocialSecurityTax",
+          "expensePaymentAmount": null,
+          "expensePaymentYearToDateAmount": null,
+          "expenseTypeOtherDescription": null
+        }
+      ]
+    },
+    "created": "2020-03-20T13:27:32",
+    "modified": "2020-03-20T13:27:33",
+    "dateReceived": "2020-03-20T12:57:23",
+    "dateClientReceived": "2020-03-20T12:57:23",
+    "conversionDateTime": "2020-10-27T08:30:40.889376",
+    "metadata": {
+      "updateReason": null,
+      "metadataCreated": null,
+      "metadataModified": null,
+      "associatedEmployers": null,
+      "associatedApplicants": null
+    }
+  }
+]

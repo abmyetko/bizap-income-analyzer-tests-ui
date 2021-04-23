@@ -1,0 +1,126 @@
+[
+	{
+		"dataSourceStatus": "EXTRACTED",
+		"siteGuid": "4e21b090-c7c1-11e8-92b4-1db960374706",
+		"folderId": "213467",
+		"dataSourceId": "DSO8B1B0989-07A4-88AD-49AD-4B7056FB9D0D",
+		"documentId": "DT19227291-C80A-7E33-5C8C-80EEE9CC76DE",
+		"canonicalDocumentType": "W2",
+		"dvFolderId": "FX95F06F46-432D-3249-5A10-2D48FD4E1FE7",
+		"documentTags": [],
+		"canonicalPayload": {
+			"id": "DSO8B1B0989-07A4-88AD-49AD-4B7056FB9D0D",
+			"applicant": [
+				{
+					"id": "APPLICANT::BFB810ED38075B35",
+					"collaboratorId": "CLBD00529EC-159F-7F86-7AC0-250AEA1B5A10",
+					"roleDetail": {
+						"id": "APPLICANT::BFB810ED38075B35#ROLE_DETAIL::A29F7C3834158E02",
+						"partyRoleType": "Borrower"
+					},
+					"name": {
+						"id": "APPLICANT::BFB810ED38075B35#NAME::03AF606B49E95FF3",
+						"fullName": "John Homeowner",
+						"firstName": "John",
+						"lastName": "Homeowner"
+					},
+					"employer": [
+						{
+							"id": "APPLICANT::BFB810ED38075B35#EMPLOYER::4C1F9B9D172AB795",
+							"employment": {
+								"id": "APPLICANT::BFB810ED38075B35#EMPLOYER::4C1F9B9D172AB795#EMPLOYMENT::5E09E5F62338DCAB"
+							},
+							"address": {
+								"id": "APPLICANT::BFB810ED38075B35#EMPLOYER::4C1F9B9D172AB795#ADDRESS::51CC1C9985A64451",
+								"addressLineText": "1 Clove Rd",
+								"cityName": "Washington",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"legalEntity": {
+								"id": "APPLICANT::BFB810ED38075B35#EMPLOYER::4C1F9B9D172AB795#LEGAL_ENTITY::57C94D039B76234E",
+								"legalEntityDetail": {
+									"id": "APPLICANT::BFB810ED38075B35#EMPLOYER::4C1F9B9D172AB795#LEGAL_ENTITY::57C94D039B76234E#LEGAL_ENTITY_DETAIL::0F1C13D78065420B",
+									"fullName": "Awesome Computers"
+								}
+							}
+						}
+					],
+					"taxpayerIdentifier": [
+						{
+							"id": "APPLICANT::BFB810ED38075B35#TAXPAYER_IDENTIFIER::E1F789699FACBFBC",
+							"taxpayerIdentifierType": "SocialSecurityNumber",
+							"taxpayerIdentifierValue": "999405000"
+						},
+						{
+							"id": "APPLICANT::BFB810ED38075B35#TAXPAYER_IDENTIFIER::2C62B6D9EC18AD9D",
+							"taxpayerIdentifierType": "EmployerIdentificationNumber"
+						}
+					],
+					"irsTaxDocument": [
+						{
+							"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1",
+							"irsTaxDocumentData": {
+								"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF",
+								"irsTaxDocumentDataIncomeDetail": {
+									"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#IRS_TAX_DOCUMENT_DATA_INCOME_DETAIL::FF0691E7E8708A28",
+									"wagesSalariesTipsEtcAmount": 30310.88,
+									"allocatedTipsAmount": 925.82,
+									"medicareWagesAndTipsAmount": 30310.88,
+									"socialSecurityBenefitsAmount": 30310.88,
+									"totalTipsReportedToEmployerAmount": 1142.34
+								},
+								"incomeTaxItem": [
+									{
+										"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::1B90A6CB11F60424",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::1B90A6CB11F60424#INCOME_TAX_ITEM_DETAIL::59A0DBAE1EF11452",
+											"incomeTaxAmount": 1142.34,
+											"incomeTaxType": "Federal"
+										}
+									},
+									{
+										"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::529C1880334D4DA4",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::529C1880334D4DA4#INCOME_TAX_ITEM_DETAIL::8CA8AF4AED86FFAA",
+											"incomeTaxAmount": 925.82,
+											"incomeTaxType": "SocialSecurity"
+										}
+									},
+									{
+										"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::58E6BC3FFEFDBD13",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DATA::6621AD1BDB6F6EDF#INCOME_TAX_ITEM::58E6BC3FFEFDBD13#INCOME_TAX_ITEM_DETAIL::6A9CC1586E827EC5",
+											"incomeTaxAmount": 433.04,
+											"incomeTaxType": "Medicare"
+										}
+									}
+								]
+							},
+							"irsTaxDocumentDocumentationDetail": {
+								"id": "APPLICANT::BFB810ED38075B35#IRS_TAX_DOCUMENT::65A668F4BFB099F1#IRS_TAX_DOCUMENT_DOCUMENTATION_DETAIL::490A1BEE543161E8",
+								"documentPeriodStartDate": "2019"
+							}
+						}
+					],
+					"address": {
+						"id": "APPLICANT::BFB810ED38075B35#ADDRESS::534EB48A7B813C6E",
+						"addressLineText": "175 13th Street",
+						"cityName": "Washington",
+						"postalCode": "20013",
+						"stateCode": "DC"
+					}
+				}
+			]
+		},
+		"created": "2020-03-11T13:50:50",
+		"modified": "2020-03-11T13:50:58",
+		"dateReceived": "2020-03-11T13:49:11",
+		"dateClientReceived": "2020-03-11T13:49:11",
+		"conversionDateTime": "2020-03-11T13:49:06.479001",
+		"metadata": {
+			"dmsModified": "2020-03-20T13:26:47.183201Z",
+			"dmsCreated": "2020-03-20T13:26:47.183201Z"
+		}
+	}
+]

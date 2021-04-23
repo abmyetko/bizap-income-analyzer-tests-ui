@@ -1,0 +1,541 @@
+[
+	{
+		"dataSourceStatus": "EXTRACTED",
+		"siteGuid": "4e21b090-c7c1-11e8-92b4-1db960374706",
+		"folderId": "151401",
+		"dataSourceId": "DSOF6C4E5F0-CD8D-A9A9-3A71-73DE12704876",
+		"documentId": "DTF52A4BDE-B62F-8C4A-CB98-E0B62F920382",
+		"canonicalDocumentType": "VOE",
+		"dvFolderId": "FX69C3DA01-EA5C-0FFE-0963-3FB04E325461",
+		"documentTags": [],
+		"canonicalPayload": {
+			"id": "DSOF6C4E5F0-CD8D-A9A9-3A71-73DE12704876",
+			"applicant": [
+				{
+					"id": "APPLICANT::780A22883D35B1BA",
+					"collaboratorId": "CLB59475053-34ED-C5C1-9DA1-E16BD85118A8",
+					"roleDetail": {
+						"id": "APPLICANT::780A22883D35B1BA#ROLE_DETAIL::C543487AB2E75C43",
+						"partyRoleType": "Borrower"
+					},
+					"name": {
+						"id": "APPLICANT::780A22883D35B1BA#NAME::8CF52265F7A430E8",
+						"fullName": "Mary Homeowner",
+						"firstName": "Mary",
+						"lastName": "Homeowner"
+					},
+					"address": [
+						{
+							"id": "APPLICANT::780A22883D35B1BA#ADDRESS::37F4082AD3B70792",
+							"addressLineText": "175 13th Street",
+							"cityName": "Washington",
+							"postalCode": "20013",
+							"stateCode": "DC"
+						}
+					],
+					"employer": [
+						{
+							"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073",
+							"legalEntity": {
+								"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#LEGAL_ENTITY::D508F86622AF610D",
+								"legalEntityDetail": {
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#LEGAL_ENTITY::D508F86622AF610D#LEGAL_ENTITY_DETAIL::70E2EACA466EE203",
+									"fullName": "FusionTomo"
+								}
+							},
+							"individual": {
+								"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F",
+								"execution": {
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F#EXECUTION::A3F71CADF90455C9",
+									"executionDetail": {
+										"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F#EXECUTION::A3F71CADF90455C9#EXECUTION_DETAIL::FF6C87A53108EF4E",
+										"signatureIndicator": true,
+										"executionDate": "2019-03-15"
+									}
+								},
+								"name": {
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F#NAME::D1FE90F735C4631E",
+									"fullName": "Chris Brown",
+									"firstName": "Chris",
+									"lastName": "Brown",
+									"functionalTitleDescription": "HR Manager"
+								},
+								"contactPoint": [
+									{
+										"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F#CONTACT_POINT::6A85B1AEABA2043B",
+										"contactPointType": "Telephone",
+										"contactPointDetail": {
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INDIVIDUAL::79E7BF5ED3402A7F#CONTACT_POINT::6A85B1AEABA2043B#CONTACT_POINT_DETAIL::F2FEE6CCC4F59CAC",
+											"contactPointRoleType": "Work"
+										},
+										"contactPointValue": "5555551233"
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#ADDRESS::E06032FA382FA208",
+								"addressLineText": "78 Client DR.",
+								"cityName": "Washington",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#EMPLOYMENT::B9128E01762B2CD6",
+								"employmentStatusType": "Current"
+							},
+							"incomeItem": [
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::160754FF787AB071",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::160754FF787AB071#INCOME_ITEM_DETAIL::16909C8C51205927",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeItemSummary": {
+										"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::160754FF787AB071#INCOME_ITEM_SUMMARY::67B563D20157E73B"
+									},
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::160754FF787AB071#INCOME_DOCUMENTATION::B4403F6779F897C5"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::C61E29D3D818E027",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::C61E29D3D818E027#INCOME_ITEM_DETAIL::8A15657A0C183084",
+											"incomeType": "Overtime",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::C61E29D3D818E027#INCOME_DOCUMENTATION::4C91E4212F3A53D8"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::5A361FF55A5863CB",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::5A361FF55A5863CB#INCOME_ITEM_DETAIL::E606A0F2496ACDDB",
+											"incomeType": "Bonus",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::5A361FF55A5863CB#INCOME_DOCUMENTATION::53B661AD93EE6DF1"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::19144A54BCD59E7A",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::19144A54BCD59E7A#INCOME_ITEM_DETAIL::7E48BB61E809FF77",
+											"incomeType": "Commissions",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::19144A54BCD59E7A#INCOME_DOCUMENTATION::DD8026B4B8B34216"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::630ADEDAB406D1A1",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::630ADEDAB406D1A1#INCOME_ITEM_DETAIL::7AF4C338D4C538A2",
+											"incomeType": "Bonus",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::630ADEDAB406D1A1#INCOME_DOCUMENTATION::8CCFB465D33EA242"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::B09847751F1C9A92",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::B09847751F1C9A92#INCOME_ITEM_DETAIL::26A146FEF429B38C",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeItemSummary": {
+										"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::B09847751F1C9A92#INCOME_ITEM_SUMMARY::1057C3B8609DC141"
+									},
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::B09847751F1C9A92#INCOME_DOCUMENTATION::5DF2344948B26967"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::724F6A457010299A",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::724F6A457010299A#INCOME_ITEM_DETAIL::9CEF19FD642AB498",
+											"incomeType": "Base",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::724F6A457010299A#INCOME_DOCUMENTATION::DB477CD9341B29D2"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::96AD78F754C096DD",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::96AD78F754C096DD#INCOME_ITEM_DETAIL::D1E601B2ED4EB68D",
+											"incomeType": "Overtime",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::96AD78F754C096DD#INCOME_DOCUMENTATION::871E0F7EB6DDCB7C"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::193C998289EFF19D",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::193C998289EFF19D#INCOME_ITEM_DETAIL::4293486E5D47A0B8",
+											"incomeType": "Commissions",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::193C998289EFF19D#INCOME_DOCUMENTATION::257DB57A4524F309"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::F108CB3BF9FD0B24",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::F108CB3BF9FD0B24#INCOME_ITEM_DETAIL::2A431A8D193F3BDA",
+											"incomeType": "Base",
+											"incomeStatusType": "Previous",
+											"incomeFrequencyType": "Annually"
+										}
+									],
+									"incomeDocumentation": [
+										{
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::F108CB3BF9FD0B24#INCOME_DOCUMENTATION::F96A5FF742CF81C1"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::702DE50A80CC4478",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::702DE50A80CC4478#INCOME_ITEM_DETAIL::E5C806690E573CCF",
+											"incomeType": "Overtime",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::8959228A704B03FC",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::8959228A704B03FC#INCOME_ITEM_DETAIL::E37C079E14D47565",
+											"incomeStatusType": "Current"
+										}
+									],
+									"incomeItemSummary": {
+										"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::8959228A704B03FC#INCOME_ITEM_SUMMARY::D8C60A2C70AC242E"
+									}
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::31ADC75987D95894",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::31ADC75987D95894#INCOME_ITEM_DETAIL::720CACFB8413B8F2",
+											"incomeType": "Bonus",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::70007FAB791E8BB2",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::70007FAB791E8BB2#INCOME_ITEM_DETAIL::7078CA92FABB6188",
+											"incomeType": "Base",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::A84EF2657260E718",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::A84EF2657260E718#INCOME_ITEM_DETAIL::4EDF19E7FAD0B250",
+											"incomeType": "Commissions",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::E7E03F4D0568F248",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::E7E03F4D0568F248#INCOME_ITEM_DETAIL::E19BB8E8CEA0FA7A",
+											"incomeType": "MilitaryFlightOrHazardPay",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::2EBCD063C25114BD",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::2EBCD063C25114BD#INCOME_ITEM_DETAIL::210E8EA753404BE0",
+											"incomeType": "MilitaryClothesAllowance",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::9DF07917ECA6B2CD",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::9DF07917ECA6B2CD#INCOME_ITEM_DETAIL::746AB415D6BAFF38",
+											"incomeType": "MilitaryPropPay",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::F5F1F66CF57151A6",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::F5F1F66CF57151A6#INCOME_ITEM_DETAIL::17F208F5062A003A",
+											"incomeType": "MilitaryQuartersAllowance",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::AAC51CB3402761F9",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::AAC51CB3402761F9#INCOME_ITEM_DETAIL::ED2B4A08969B6154",
+											"incomeType": "MilitaryVariableHousingAllowance",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::9D5C3E1ECF53CC31",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::9D5C3E1ECF53CC31#INCOME_ITEM_DETAIL::292991B0122F54C4",
+											"incomeType": "MilitaryRationsAllowance",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::504E09FEED922009",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::504E09FEED922009#INCOME_ITEM_DETAIL::C0CCF094E57049C6",
+											"incomeType": "MilitaryBasePay",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::E828AF62A4138DE3",
+									"incomeItemDetail": [
+										{
+											"classifier": "BaseIncomeFrequency",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::E828AF62A4138DE3#INCOME_ITEM_DETAIL::AAF2E5932EA7449F",
+											"incomeType": "Base",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::514B5510FA77ECBD",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::514B5510FA77ECBD#INCOME_ITEM_DETAIL::8200C4CA911546C5",
+											"incomeType": "MilitaryOverseasOrCombatPay",
+											"incomeStatusType": "Current",
+											"incomeFrequencyType": "Monthly"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::DA765E8A42A97CF3",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomePaidAverageHoursPerWeekNumber",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::DA765E8A42A97CF3#INCOME_ITEM_DETAIL::5FBD28276263F0A2"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::489E38572619C3E4",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeLikelyToContinueIndicator",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::489E38572619C3E4#INCOME_ITEM_DETAIL::FEC979BA8105C5C0",
+											"incomeType": "Bonus",
+											"incomeStatusType": "Current"
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::1E6908F8CD769086",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeLikelyToContinueIndicator",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::E96B7FF6E0A0A073#INCOME_ITEM::1E6908F8CD769086#INCOME_ITEM_DETAIL::20390F5833B818E8",
+											"incomeType": "Overtime",
+											"incomeStatusType": "Current"
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E",
+							"employment": {
+								"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#EMPLOYMENT::E92015F82124046C",
+								"employmentStatusType": "Previous",
+								"employmentStartDate": "2016-04-12",
+								"employmentEndDate": "2018-08-20",
+								"employmentPositionDescription": "Sales Executive"
+							},
+							"incomeItem": [
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::5D9FBA4F2B558BAE",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::5D9FBA4F2B558BAE#INCOME_ITEM_DETAIL::39F93519D4B20208",
+											"incomeType": "Base",
+											"incomeFrequencyType": "Monthly",
+											"incomeTypeTotalAmount": 4107.32
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::27DE3D02204BEA84",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::27DE3D02204BEA84#INCOME_ITEM_DETAIL::7413FD3A560B9801",
+											"incomeType": "Overtime",
+											"incomeTypeTotalAmount": 0.0
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::B104732F011139F7",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::B104732F011139F7#INCOME_ITEM_DETAIL::4556AFEBAD30A4AF",
+											"incomeType": "Commissions",
+											"incomeFrequencyType": "Monthly",
+											"incomeTypeTotalAmount": 1254.9
+										}
+									]
+								},
+								{
+									"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::4D9311897CD10081",
+									"incomeItemDetail": [
+										{
+											"classifier": "IncomeTypeAmount",
+											"id": "APPLICANT::780A22883D35B1BA#EMPLOYER::3966745911C1B45E#INCOME_ITEM::4D9311897CD10081#INCOME_ITEM_DETAIL::44DD2D83A3339E08",
+											"incomeType": "Bonus",
+											"incomeTypeTotalAmount": 0.0
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"loanOriginator": {
+				"id": "LOAN_ORIGINATOR::C623BE3C20BA66B7",
+				"loanOriginatorType": "Lender",
+				"execution": {
+					"id": "LOAN_ORIGINATOR::C623BE3C20BA66B7#EXECUTION::8464C70F72D79980",
+					"executionDetail": {
+						"id": "LOAN_ORIGINATOR::C623BE3C20BA66B7#EXECUTION::8464C70F72D79980#EXECUTION_DETAIL::E09C4B5C78617E5C",
+						"executionDate": "2019-03-15"
+					}
+				}
+			}
+		},
+		"created": "2019-11-04T00:15:38",
+		"modified": "2019-11-04T00:15:43",
+		"dateReceived": "2019-11-04T00:15:06",
+		"dateClientReceived": "2019-11-04T00:15:06",
+		"conversionDateTime": "2019-11-04T00:15:26.898363",
+		"metadata": {
+			"dmsModified": "2020-03-20T13:26:47.183201Z",
+			"dmsCreated": "2020-03-20T13:26:47.183201Z"
+		}
+	}
+]

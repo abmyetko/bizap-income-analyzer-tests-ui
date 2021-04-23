@@ -1,0 +1,1480 @@
+{
+  "applicants": [
+    {
+      "associatedRefIds": [],
+      "firstName": "Mary Homeowner",
+      "id": 1001767,
+      "incomeCategories": {
+        "W2": {
+          "category": "W2",
+          "incomeGroups": [
+            {
+              "classificationType": "Primary",
+              "id": "W2|1001774",
+              "incomeTypes": {
+                "BASE_PAY": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001774|BASE_PAY|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001774|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001774|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001774|BASE_PAY",
+                  "incomeType": "BASE_PAY",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "selected": true,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "OVERTIME": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001774|OVERTIME|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001774|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001774|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001774|OVERTIME",
+                  "incomeType": "OVERTIME",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "COMMISSIONS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001774|COMMISSIONS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001774|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001774|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001774|COMMISSIONS",
+                  "incomeType": "COMMISSIONS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "BONUS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001774|BONUS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001774|BONUS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001774|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001774|BONUS",
+                  "incomeType": "BONUS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                }
+              },
+              "incomeIds": [
+                1001774
+              ],
+              "selected": true,
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "ytd": 2021
+            }
+          ],
+          "incomeTypes": {
+            "BASE_PAY": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001774|BASE_PAY|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001774|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001774|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001774|BASE_PAY",
+              "incomeType": "BASE_PAY",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "selected": true,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "OVERTIME": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001774|OVERTIME|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001774|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001774|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001774|OVERTIME",
+              "incomeType": "OVERTIME",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "COMMISSIONS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001774|COMMISSIONS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001774|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001774|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001774|COMMISSIONS",
+              "incomeType": "COMMISSIONS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "BONUS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001774|BONUS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001774|BONUS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001774|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001774|BONUS",
+              "incomeType": "BONUS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            }
+          },
+          "selected": true,
+          "id": "W2",
+          "qualified": true,
+          "qualifyingIncome": 0E-8,
+          "tooltips": []
+        }
+      },
+      "incomes": [
+        {
+          "category": "W2",
+          "current": true,
+          "employer": {
+            "classification": "Primary",
+            "employmentPeriod": {
+              "dateFrom": "2010-04-28",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1001774,
+            "monthsOnJob": 0E-8,
+            "name": "Dept of Interior Inc",
+            "nameAliases": [],
+            "status": "Current"
+          },
+          "id": 1001774,
+          "parts": [
+            {
+              "id": "1001774-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1001774-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1001774-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1001774-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001774-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true,
+          "ytd": 2021
+        },
+        {
+          "category": "W2",
+          "current": false,
+          "employer": {
+            "employmentPeriod": {
+              "dateFrom": "2017-01-01",
+              "dateTo": "2021-12-31",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1001773,
+            "monthsOnJob": 60.00000000,
+            "name": "Awesome Computers",
+            "nameAliases": [],
+            "status": "Previous"
+          },
+          "id": 1001773,
+          "parts": [
+            {
+              "id": "1001773-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BASE_PAY-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BASE_PAY-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1001773-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-OVERTIME-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-OVERTIME-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1001773-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-COMMISSIONS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-COMMISSIONS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1001773-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BONUS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001773-BONUS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true
+        }
+      ],
+      "monthsOnCurrentJob": 0E-8,
+      "primaryInPair": true,
+      "declaredIncome": {
+        "BASE_PAY": 5241.6
+      },
+      "touchless": true,
+      "qualified": true,
+      "qualifyingIncome": 0E-8,
+      "refId": "CLB1CCF1D9A-C57A-51D0-42A7-AF8500E7D567",
+      "selected": true
+    },
+    {
+      "associatedRefIds": [],
+      "firstName": "Erica Lambert",
+      "id": 1001770,
+      "incomeCategories": {
+        "W2": {
+          "category": "W2",
+          "incomeGroups": [
+            {
+              "classificationType": "Primary",
+              "id": "W2|1001775",
+              "incomeTypes": {
+                "BASE_PAY": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001775|BASE_PAY|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001775|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001775|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001775|BASE_PAY",
+                  "incomeType": "BASE_PAY",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "selected": true,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "OVERTIME": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001775|OVERTIME|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001775|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001775|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001775|OVERTIME",
+                  "incomeType": "OVERTIME",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "COMMISSIONS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001775|COMMISSIONS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001775|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001775|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001775|COMMISSIONS",
+                  "incomeType": "COMMISSIONS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "BONUS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1001775|BONUS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1001775|BONUS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1001775|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1001775|BONUS",
+                  "incomeType": "BONUS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                }
+              },
+              "incomeIds": [
+                1001775
+              ],
+              "selected": true,
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "ytd": 2021
+            }
+          ],
+          "incomeTypes": {
+            "BASE_PAY": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001775|BASE_PAY|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001775|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001775|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001775|BASE_PAY",
+              "incomeType": "BASE_PAY",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "selected": true,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "OVERTIME": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001775|OVERTIME|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001775|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001775|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001775|OVERTIME",
+              "incomeType": "OVERTIME",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "COMMISSIONS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001775|COMMISSIONS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001775|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001775|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001775|COMMISSIONS",
+              "incomeType": "COMMISSIONS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "BONUS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1001775|BONUS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1001775|BONUS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1001775|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1001775|BONUS",
+              "incomeType": "BONUS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            }
+          },
+          "selected": true,
+          "id": "W2",
+          "qualified": true,
+          "qualifyingIncome": 0E-8,
+          "tooltips": []
+        }
+      },
+      "incomes": [
+        {
+          "category": "W2",
+          "current": true,
+          "employer": {
+            "classification": "Primary",
+            "employmentPeriod": {
+              "dateFrom": "2005-09-28",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1001775,
+            "monthsOnJob": 0E-8,
+            "name": "Capsilon One Inc",
+            "nameAliases": [],
+            "status": "Current"
+          },
+          "id": 1001775,
+          "parts": [
+            {
+              "id": "1001775-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1001775-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1001775-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1001775-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001775-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true,
+          "ytd": 2021
+        },
+        {
+          "category": "W2",
+          "current": false,
+          "employer": {
+            "employmentPeriod": {
+              "dateFrom": "2019-01-01",
+              "dateTo": "2019-12-31",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1001776,
+            "monthsOnJob": 12.00000000,
+            "name": "Not Awesome Computers",
+            "nameAliases": [],
+            "status": "Previous"
+          },
+          "id": 1001776,
+          "parts": [
+            {
+              "id": "1001776-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BASE_PAY-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BASE_PAY-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1001776-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-OVERTIME-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-OVERTIME-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1001776-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-COMMISSIONS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-COMMISSIONS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1001776-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BONUS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1001776-BONUS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true
+        }
+      ],
+      "monthsOnCurrentJob": 0E-8,
+      "primaryInPair": false,
+      "declaredIncome": {
+        "BASE_PAY": 5123.22
+      },
+      "touchless": true,
+      "qualified": true,
+      "qualifyingIncome": 0E-8,
+      "refId": "CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D",
+      "selected": true
+    }
+  ],
+  "calculatedBy": {
+    "firstName": "automated",
+    "name": "automated"
+  },
+  "calculationDate": "2021-01-25T07:12:32Z",
+  "documents": {
+    "1001903": {
+      "conversionDateTime": "2021-01-25T07:10:00.762098",
+      "dataSourceId": "DSO9D567D67-8849-333B-6737-E05791BDDE38",
+      "errors": {
+        "optional": [
+          "EmployerEndDate"
+        ]
+      },
+      "employerName": "Capsilon One Inc",
+      "id": 1001903,
+      "type": "LOAN_APP_FNM_CANONICAL"
+    }
+  },
+  "featureToggles": {
+    "overtimeInclusionEnabled": true,
+    "commissionInclusionEnabled": true,
+    "bonusInclusionEnabled": true,
+    "teachersIncomeEnabled": true,
+    "secondaryJobsEnabled": false
+  },
+  "executionDate": "2021-02-28",
+  "worksheet": {
+    "underGeneration": false
+  },
+  "id": 1001766,
+  "lastStatusModification": "2021-01-25T07:12:32.286660Z",
+  "mortgageType": "Conventional",
+  "refId": "20117",
+  "rules": {
+    "INC-220#CLB1CCF1D9A-C57A-51D0-42A7-AF8500E7D567": {
+      "applicantId": "CLB1CCF1D9A-C57A-51D0-42A7-AF8500E7D567",
+      "ruleCode": "INC-220",
+      "ruleId": "INC-220",
+      "status": "FAILED"
+    },
+    "INC-220#CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D": {
+      "applicantId": "CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D",
+      "ruleCode": "INC-220",
+      "ruleId": "INC-220",
+      "status": "NOT_APPLICABLE"
+    },
+    "INC-380#CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D": {
+      "applicantId": "CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D",
+      "ruleCode": "INC-380",
+      "ruleId": "INC-380",
+      "status": "NOT_APPLICABLE"
+    },
+    "INC-950#CLB1CCF1D9A-C57A-51D0-42A7-AF8500E7D567": {
+      "applicantId": "CLB1CCF1D9A-C57A-51D0-42A7-AF8500E7D567",
+      "ruleCode": "INC-950",
+      "ruleId": "INC-950",
+      "status": "PASSED"
+    },
+    "INC-950#CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D": {
+      "applicantId": "CLB29DCE7C5-9A0D-09C6-69CE-438E280EC91D",
+      "ruleCode": "INC-950",
+      "ruleId": "INC-950",
+      "status": "NOT_APPLICABLE"
+    }
+  },
+  "siteGUID": "ad0dfa5c-9bc9-4e73-83a7-f0837f4aa4fb",
+  "status": "OPEN",
+  "failedRuleCount": 11,
+  "totalQualifyingIncome": {
+    "qualifyingIncome": 0E-8
+  },
+  "touchless": true,
+  "urlaVersion": "URLA_2009"
+}

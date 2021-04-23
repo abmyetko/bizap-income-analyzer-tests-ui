@@ -1,0 +1,3368 @@
+{
+  "applicants": [
+    {
+      "associatedRefIds": [],
+      "firstName": "Mary Homeowner",
+      "id": 1002887,
+      "incomeCategories": {
+        "W2": {
+          "category": "W2",
+          "incomeGroups": [
+            {
+              "classificationType": "Primary",
+              "id": "W2|1002893",
+              "incomeTypes": {
+                "BASE_PAY": {
+                  "avgIncomes": [
+                    {
+                      "avgMonthlyIncome": 2500.00000000,
+                      "avgType": "YTD_AVG",
+                      "gross": 7500.00000000,
+                      "id": "W2|1002893|BASE_PAY|YTD_AVG",
+                      "months": 3.00000000,
+                      "selected": true
+                    },
+                    {
+                      "avgMonthlyIncome": 2382.85000000,
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "gross": 35742.72000000,
+                      "id": "W2|1002893|BASE_PAY|YTD_AVG_PLUS_PREV_YR",
+                      "months": 15.00000000
+                    },
+                    {
+                      "avgMonthlyIncome": 2369.83000000,
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "gross": 63985.44000000,
+                      "id": "W2|1002893|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "months": 27.00000000
+                    }
+                  ],
+                  "id": "W2|1002893|BASE_PAY",
+                  "incomeType": "BASE_PAY",
+                  "paymentType": "SALARIED",
+                  "qualified": true,
+                  "qualifyingIncome": 2500.00000000,
+                  "selected": true,
+                  "totalSelectedIncome": [
+                    {
+                      "avgMonthlyIncome": 2500.00000000,
+                      "gross": 7500.00000000,
+                      "months": 3.00000000,
+                      "trending": 6.22000000,
+                      "year": 2021
+                    },
+                    {
+                      "avgMonthlyIncome": 2353.56000000,
+                      "gross": 28242.72000000,
+                      "months": 12.00000000,
+                      "trending": 0E-8,
+                      "year": 2020
+                    },
+                    {
+                      "avgMonthlyIncome": 2353.56000000,
+                      "gross": 28242.72000000,
+                      "months": 12.00000000,
+                      "year": 2019
+                    }
+                  ]
+                },
+                "OVERTIME": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002893|OVERTIME|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002893|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002893|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002893|OVERTIME",
+                  "incomeType": "OVERTIME",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "COMMISSIONS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002893|COMMISSIONS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002893|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002893|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002893|COMMISSIONS",
+                  "incomeType": "COMMISSIONS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "BONUS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002893|BONUS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002893|BONUS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002893|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002893|BONUS",
+                  "incomeType": "BONUS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                }
+              },
+              "incomeIds": [
+                1002893
+              ],
+              "selected": true,
+              "qualified": true,
+              "qualifyingIncome": 2500.00000000,
+              "ytd": 2021
+            }
+          ],
+          "incomeTypes": {
+            "BASE_PAY": {
+              "avgIncomes": [
+                {
+                  "avgMonthlyIncome": 2500.00000000,
+                  "avgType": "YTD_AVG",
+                  "gross": 7500.00000000,
+                  "id": "W2|1002893|BASE_PAY|YTD_AVG",
+                  "months": 3.00000000,
+                  "selected": true
+                },
+                {
+                  "avgMonthlyIncome": 2382.85000000,
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "gross": 35742.72000000,
+                  "id": "W2|1002893|BASE_PAY|YTD_AVG_PLUS_PREV_YR",
+                  "months": 15.00000000
+                },
+                {
+                  "avgMonthlyIncome": 2369.83000000,
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "gross": 63985.44000000,
+                  "id": "W2|1002893|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "months": 27.00000000
+                }
+              ],
+              "id": "W2|1002893|BASE_PAY",
+              "incomeType": "BASE_PAY",
+              "paymentType": "SALARIED",
+              "qualified": true,
+              "qualifyingIncome": 2500.00000000,
+              "selected": true,
+              "totalSelectedIncome": [
+                {
+                  "avgMonthlyIncome": 2500.00000000,
+                  "gross": 7500.00000000,
+                  "months": 3.00000000,
+                  "trending": 6.22000000,
+                  "year": 2021
+                },
+                {
+                  "avgMonthlyIncome": 2353.56000000,
+                  "gross": 28242.72000000,
+                  "months": 12.00000000,
+                  "trending": 0E-8,
+                  "year": 2020
+                },
+                {
+                  "avgMonthlyIncome": 2353.56000000,
+                  "gross": 28242.72000000,
+                  "months": 12.00000000,
+                  "year": 2019
+                }
+              ]
+            },
+            "OVERTIME": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002893|OVERTIME|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002893|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002893|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002893|OVERTIME",
+              "incomeType": "OVERTIME",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "COMMISSIONS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002893|COMMISSIONS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002893|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002893|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002893|COMMISSIONS",
+              "incomeType": "COMMISSIONS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "BONUS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002893|BONUS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002893|BONUS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002893|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002893|BONUS",
+              "incomeType": "BONUS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            }
+          },
+          "selected": true,
+          "id": "W2",
+          "qualified": true,
+          "qualifyingIncome": 2500.00000000,
+          "tooltips": []
+        }
+      },
+      "incomes": [
+        {
+          "category": "W2",
+          "current": true,
+          "employer": {
+            "classification": "Primary",
+            "employmentPeriod": {
+              "dateFrom": "2010-04-28",
+              "snippets": [],
+              "ytdDate": "2021-03-31",
+              "footnotesIdx": []
+            },
+            "id": 1002893,
+            "monthsOnJob": 131.10000000,
+            "name": "Dept of Interior Inc",
+            "nameAliases": [],
+            "status": "Current"
+          },
+          "id": 1002893,
+          "parts": [
+            {
+              "id": "1002893-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "difference": 7500.00000000,
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06Ojg0M0VDNTlCNEQ5OEYwRjQjSU5DT01FX0lURU1fREVUQUlMOjpBRDU1QUMxREFBQ0VEOEQw"
+                          }
+                        ],
+                        "value": 2500.00000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "docType": "PAYSTUB",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "CALCULATED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVllYXJUb0RhdGVBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6ODQzRUM1OUI0RDk4RjBGNCNJTkNPTUVfSVRFTV9ERVRBSUw6OkFENTVBQzFEQUFDRUQ4RDA\u003d"
+                          }
+                        ],
+                        "value": 30000.00000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "AVG",
+                        "value": 10000.00000000,
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": true,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 2500.00000000,
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "monthsPaid": 12.00000000,
+                      "months": {
+                        "value": 3.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-03-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "03/31/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          }
+                        ],
+                        "value": "03/01/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06Ojg0M0VDNTlCNEQ5OEYwRjQjSU5DT01FX0lURU1fREVUQUlMOjpBRDU1QUMxREFBQ0VEOEQw"
+                          }
+                        ],
+                        "value": 2500.00000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": true,
+                      "included": true,
+                      "type": {
+                        "snippets": [],
+                        "value": "SALARIED",
+                        "valueType": "CALCULATED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "variance": 300.00000000,
+                      "docIds": [
+                        1002913
+                      ]
+                    }
+                  ],
+                  "id": "1002893-BASE_PAY-2021-YEAR",
+                  "qualified": true,
+                  "selected": true,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002918",
+                        "footnotesIdx": []
+                      },
+                      "docType": "W2",
+                      "frequency": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002918",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": true,
+                        "snippets": [],
+                        "type": "AVG",
+                        "value": 2353.56000000,
+                        "documentId": "1002918",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2020-01-01",
+                        "to": "2020-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfRE9DVU1FTlRBVElPTl9ERVRBSUw6OjQ5MEExQkVFNTQzMTYxRTg\u003d"
+                          }
+                        ],
+                        "value": "12/31/2020",
+                        "documentId": "1002918",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002918",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002918"
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": true,
+                      "included": true,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002918
+                      ]
+                    }
+                  ],
+                  "id": "1002893-BASE_PAY-2020-YEAR",
+                  "qualified": true,
+                  "selected": true,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002923",
+                        "footnotesIdx": []
+                      },
+                      "docType": "W2",
+                      "frequency": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002923",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": true,
+                        "snippets": [],
+                        "type": "AVG",
+                        "value": 2353.56000000,
+                        "documentId": "1002923",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2019-01-01",
+                        "to": "2019-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfRE9DVU1FTlRBVElPTl9ERVRBSUw6OjQ5MEExQkVFNTQzMTYxRTg\u003d"
+                          }
+                        ],
+                        "value": "12/31/2019",
+                        "documentId": "1002923",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9V2FnZXNTYWxhcmllc1RpcHNFdGNBbW91bnQsY29udGFpbmVyPUFQUExJQ0FOVDo6QkZCODEwRUQzODA3NUIzNSNJUlNfVEFYX0RPQ1VNRU5UOjo2NUE2NjhGNEJGQjA5OUYxI0lSU19UQVhfRE9DVU1FTlRfREFUQTo6NjYyMUFEMUJEQjZGNkVERiNJUlNfVEFYX0RPQ1VNRU5UX0RBVEFfSU5DT01FX0RFVEFJTDo6RkYwNjkxRTdFODcwOEEyOA\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9QWxsb2NhdGVkVGlwc0Ftb3VudCxjb250YWluZXI9QVBQTElDQU5UOjpCRkI4MTBFRDM4MDc1QjM1I0lSU19UQVhfRE9DVU1FTlQ6OjY1QTY2OEY0QkZCMDk5RjEjSVJTX1RBWF9ET0NVTUVOVF9EQVRBOjo2NjIxQUQxQkRCNkY2RURGI0lSU19UQVhfRE9DVU1FTlRfREFUQV9JTkNPTUVfREVUQUlMOjpGRjA2OTFFN0U4NzA4QTI4"
+                          },
+                          {
+                            "documentId": "1002923",
+                            "id": "cmVmSWQ9VG90YWxUaXBzUmVwb3J0ZWRUb0VtcGxveWVyQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6OkJGQjgxMEVEMzgwNzVCMzUjSVJTX1RBWF9ET0NVTUVOVDo6NjVBNjY4RjRCRkIwOTlGMSNJUlNfVEFYX0RPQ1VNRU5UX0RBVEE6OjY2MjFBRDFCREI2RjZFREYjSVJTX1RBWF9ET0NVTUVOVF9EQVRBX0lOQ09NRV9ERVRBSUw6OkZGMDY5MUU3RTg3MDhBMjg\u003d"
+                          }
+                        ],
+                        "value": 28242.72000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002923"
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": true,
+                      "included": true,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002923
+                      ]
+                    }
+                  ],
+                  "id": "1002893-BASE_PAY-2019-YEAR",
+                  "qualified": true,
+                  "selected": true,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": true,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1002893-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "docType": "PAYSTUB",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "CALCULATED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "AVG",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 3.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-03-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "03/31/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          }
+                        ],
+                        "value": "03/01/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002913
+                      ]
+                    }
+                  ],
+                  "id": "1002893-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1002893-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "docType": "PAYSTUB",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "CALCULATED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "AVG",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 3.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-03-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "03/31/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          }
+                        ],
+                        "value": "03/01/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002913
+                      ]
+                    }
+                  ],
+                  "id": "1002893-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1002893-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "docType": "PAYSTUB",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          },
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "CALCULATED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAnnualized": {
+                        "id": "ANNUALIZED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "ANNUALIZED",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountAvg": {
+                        "id": "AVG",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "AVG",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 3.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-03-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RFbmREYXRlLGNvbnRhaW5lcj1BUFBMSUNBTlQ6OjhGQzc1RjY0RTA3RDVFQ0UjRU1QTE9ZRVI6Ojc5MzE1MjlCREQ2QkFCNUYjSU5DT01FX0lURU06OkU2MDU2MzkzMkEwQ0QyOTEjSU5DT01FX0RPQ1VNRU5UQVRJT046OjNCRUVENkVDM0NFNjI0MkE\u003d"
+                          }
+                        ],
+                        "value": "03/31/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002913",
+                            "id": "cmVmSWQ9RG9jdW1lbnRQZXJpb2RTdGFydERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6OEZDNzVGNjRFMDdENUVDRSNFTVBMT1lFUjo6NzkzMTUyOUJERDZCQUI1RiNJTkNPTUVfSVRFTTo6RTYwNTYzOTMyQTBDRDI5MSNJTkNPTUVfRE9DVU1FTlRBVElPTjo6M0JFRUQ2RUMzQ0U2MjQyQQ\u003d\u003d"
+                          }
+                        ],
+                        "value": "03/01/2021",
+                        "documentId": "1002913",
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002913
+                      ]
+                    }
+                  ],
+                  "id": "1002893-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002893-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": true,
+          "declaredIncome": {},
+          "selected": true,
+          "ytd": 2021
+        },
+        {
+          "category": "W2",
+          "current": false,
+          "employer": {
+            "employmentPeriod": {
+              "dateFrom": "2017-01-01",
+              "dateTo": "2021-12-31",
+              "snippets": [
+                {
+                  "documentId": "1002926",
+                  "id": "cmVmSWQ9RW1wbG95bWVudFN0YXJ0RGF0ZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0VNUExPWU1FTlQ6OkU5MjAxNUY4MjEyNDA0NkM\u003d"
+                },
+                {
+                  "documentId": "1002926",
+                  "id": "cmVmSWQ9RW1wbG95bWVudEVuZERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6NzgwQTIyODgzRDM1QjFCQSNFTVBMT1lFUjo6Mzk2Njc0NTkxMUMxQjQ1RSNFTVBMT1lNRU5UOjpFOTIwMTVGODIxMjQwNDZD"
+                }
+              ],
+              "documentId": "1002926",
+              "footnotesIdx": []
+            },
+            "id": 1002892,
+            "monthsOnJob": 60.00000000,
+            "name": "Awesome Computers",
+            "nameAliases": [],
+            "status": "Previous"
+          },
+          "id": 1002892,
+          "parts": [
+            {
+              "id": "1002892-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-BASE_PAY-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": true,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 4107.32000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9RW1wbG95bWVudEVuZERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6NzgwQTIyODgzRDM1QjFCQSNFTVBMT1lFUjo6Mzk2Njc0NTkxMUMxQjQ1RSNFTVBMT1lNRU5UOjpFOTIwMTVGODIxMjQwNDZD"
+                          }
+                        ],
+                        "value": "12/31/2021",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": true,
+                      "included": true,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "disabledIds": [
+                    "W2|1002893"
+                  ],
+                  "id": "1002892-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 4107.32000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2020-01-01",
+                        "to": "2020-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2020",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 4107.32000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2019-01-01",
+                        "to": "2019-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2019",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjVEOUZCQTRGMkI1NThCQUUjSU5DT01FX0lURU1fREVUQUlMOjozOUY5MzUxOUQ0QjIwMjA4"
+                          }
+                        ],
+                        "value": 4107.32000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-BASE_PAY-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1002892-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-OVERTIME-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9RW1wbG95bWVudEVuZERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6NzgwQTIyODgzRDM1QjFCQSNFTVBMT1lFUjo6Mzk2Njc0NTkxMUMxQjQ1RSNFTVBMT1lNRU5UOjpFOTIwMTVGODIxMjQwNDZD"
+                          }
+                        ],
+                        "value": "12/31/2021",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2020-01-01",
+                        "to": "2020-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2020",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2019-01-01",
+                        "to": "2019-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2019",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjI3REUzRDAyMjA0QkVBODQjSU5DT01FX0lURU1fREVUQUlMOjo3NDEzRkQzQTU2MEI5ODAx"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-OVERTIME-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1002892-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-COMMISSIONS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": true,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 1254.90000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9RW1wbG95bWVudEVuZERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6NzgwQTIyODgzRDM1QjFCQSNFTVBMT1lFUjo6Mzk2Njc0NTkxMUMxQjQ1RSNFTVBMT1lNRU5UOjpFOTIwMTVGODIxMjQwNDZD"
+                          }
+                        ],
+                        "value": "12/31/2021",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": true,
+                      "included": true,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 1254.90000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2020-01-01",
+                        "to": "2020-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2020",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 1254.90000000,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2019-01-01",
+                        "to": "2019-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2019",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OkIxMDQ3MzJGMDExMTM5RjcjSU5DT01FX0lURU1fREVUQUlMOjo0NTU2QUZFQkFEMzBBNEFG"
+                          }
+                        ],
+                        "value": 1254.90000000,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-COMMISSIONS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1002892-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-BONUS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2021-01-01",
+                        "to": "2021-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9RW1wbG95bWVudEVuZERhdGUsY29udGFpbmVyPUFQUExJQ0FOVDo6NzgwQTIyODgzRDM1QjFCQSNFTVBMT1lFUjo6Mzk2Njc0NTkxMUMxQjQ1RSNFTVBMT1lNRU5UOjpFOTIwMTVGODIxMjQwNDZD"
+                          }
+                        ],
+                        "value": "12/31/2021",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2020-01-01",
+                        "to": "2020-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2020",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [
+                    {
+                      "annotations": {},
+                      "displayGrossPay": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "docType": "VOE",
+                      "frequency": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lRnJlcXVlbmN5VHlwZSxjb250YWluZXI9QVBQTElDQU5UOjo3ODBBMjI4ODNEMzVCMUJBI0VNUExPWUVSOjozOTY2NzQ1OTExQzFCNDVFI0lOQ09NRV9JVEVNOjo1RDlGQkE0RjJCNTU4QkFFI0lOQ09NRV9JVEVNX0RFVEFJTDo6MzlGOTM1MTlENEIyMDIwOA\u003d\u003d"
+                          }
+                        ],
+                        "value": "MONTHLY",
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "grossAmount": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "hours": {
+                        "cappedHours": false,
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "monthlyAmountCalculated": {
+                        "id": "CALCULATED",
+                        "selected": false,
+                        "snippets": [],
+                        "type": "CALCULATED",
+                        "value": 0E-8,
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "months": {
+                        "value": 12.00000000,
+                        "snippets": [],
+                        "from": "2019-01-01",
+                        "to": "2019-12-31"
+                      },
+                      "payPeriodEndDate": {
+                        "snippets": [],
+                        "value": "12/31/2019",
+                        "footnotesIdx": []
+                      },
+                      "payPeriodStartDate": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "periodAmount": {
+                        "snippets": [
+                          {
+                            "documentId": "1002926",
+                            "id": "cmVmSWQ9SW5jb21lVHlwZVRvdGFsQW1vdW50LGNvbnRhaW5lcj1BUFBMSUNBTlQ6Ojc4MEEyMjg4M0QzNUIxQkEjRU1QTE9ZRVI6OjM5NjY3NDU5MTFDMUI0NUUjSU5DT01FX0lURU06OjREOTMxMTg5N0NEMTAwODEjSU5DT01FX0lURU1fREVUQUlMOjo0NEREMkQ4M0EzMzM5RTA4"
+                          }
+                        ],
+                        "value": 0E-8,
+                        "valueType": "EXPLICIT",
+                        "documentId": "1002926",
+                        "footnotesIdx": []
+                      },
+                      "rate": {
+                        "snippets": [],
+                        "valueType": "EXPLICIT",
+                        "footnotesIdx": []
+                      },
+                      "selected": false,
+                      "included": false,
+                      "type": {
+                        "snippets": [],
+                        "footnotesIdx": []
+                      },
+                      "docIds": [
+                        1002926
+                      ]
+                    }
+                  ],
+                  "id": "1002892-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002892-BONUS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true
+        }
+      ],
+      "monthsOnCurrentJob": 131.10000000,
+      "primaryInPair": true,
+      "declaredIncome": {
+        "BASE_PAY": 5241.6
+      },
+      "touchless": true,
+      "qualified": true,
+      "qualifyingIncome": 2500.00000000,
+      "refId": "CLBA84786FD-EA68-517D-F5B9-BE5C269B7925",
+      "selected": true
+    },
+    {
+      "associatedRefIds": [],
+      "firstName": "Erica Lambert",
+      "id": 1002884,
+      "incomeCategories": {
+        "W2": {
+          "category": "W2",
+          "incomeGroups": [
+            {
+              "classificationType": "Primary",
+              "id": "W2|1002890",
+              "incomeTypes": {
+                "BASE_PAY": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002890|BASE_PAY|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002890|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002890|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002890|BASE_PAY",
+                  "incomeType": "BASE_PAY",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "selected": true,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "OVERTIME": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002890|OVERTIME|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002890|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002890|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002890|OVERTIME",
+                  "incomeType": "OVERTIME",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "COMMISSIONS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002890|COMMISSIONS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002890|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002890|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002890|COMMISSIONS",
+                  "incomeType": "COMMISSIONS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                },
+                "BONUS": {
+                  "avgIncomes": [
+                    {
+                      "avgType": "YTD_AVG",
+                      "id": "W2|1002890|BONUS|YTD_AVG"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_YR",
+                      "id": "W2|1002890|BONUS|YTD_AVG_PLUS_PREV_YR"
+                    },
+                    {
+                      "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                      "id": "W2|1002890|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                    }
+                  ],
+                  "id": "W2|1002890|BONUS",
+                  "incomeType": "BONUS",
+                  "qualified": false,
+                  "qualifyingIncome": 0E-8,
+                  "totalSelectedIncome": [
+                    {
+                      "year": 2021
+                    },
+                    {
+                      "year": 2020
+                    },
+                    {
+                      "year": 2019
+                    }
+                  ]
+                }
+              },
+              "incomeIds": [
+                1002890
+              ],
+              "selected": true,
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "ytd": 2021
+            }
+          ],
+          "incomeTypes": {
+            "BASE_PAY": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002890|BASE_PAY|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002890|BASE_PAY|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002890|BASE_PAY|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002890|BASE_PAY",
+              "incomeType": "BASE_PAY",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "selected": true,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "OVERTIME": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002890|OVERTIME|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002890|OVERTIME|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002890|OVERTIME|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002890|OVERTIME",
+              "incomeType": "OVERTIME",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "COMMISSIONS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002890|COMMISSIONS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002890|COMMISSIONS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002890|COMMISSIONS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002890|COMMISSIONS",
+              "incomeType": "COMMISSIONS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            },
+            "BONUS": {
+              "avgIncomes": [
+                {
+                  "avgType": "YTD_AVG",
+                  "id": "W2|1002890|BONUS|YTD_AVG"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_YR",
+                  "id": "W2|1002890|BONUS|YTD_AVG_PLUS_PREV_YR"
+                },
+                {
+                  "avgType": "YTD_AVG_PLUS_PREV_TWO_YRS",
+                  "id": "W2|1002890|BONUS|YTD_AVG_PLUS_PREV_TWO_YRS"
+                }
+              ],
+              "id": "W2|1002890|BONUS",
+              "incomeType": "BONUS",
+              "qualified": false,
+              "qualifyingIncome": 0E-8,
+              "totalSelectedIncome": [
+                {
+                  "year": 2021
+                },
+                {
+                  "year": 2020
+                },
+                {
+                  "year": 2019
+                }
+              ]
+            }
+          },
+          "selected": true,
+          "id": "W2",
+          "qualified": true,
+          "qualifyingIncome": 0E-8,
+          "tooltips": []
+        }
+      },
+      "incomes": [
+        {
+          "category": "W2",
+          "current": true,
+          "employer": {
+            "classification": "Primary",
+            "employmentPeriod": {
+              "dateFrom": "2005-09-28",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1002890,
+            "monthsOnJob": 0E-8,
+            "name": "Capsilon One Inc",
+            "nameAliases": [],
+            "status": "Current"
+          },
+          "id": 1002890,
+          "parts": [
+            {
+              "id": "1002890-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1002890-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1002890-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1002890-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": true
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002890-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true,
+          "ytd": 2021
+        },
+        {
+          "category": "W2",
+          "current": false,
+          "employer": {
+            "employmentPeriod": {
+              "dateFrom": "2019-01-01",
+              "dateTo": "2019-12-31",
+              "snippets": [],
+              "footnotesIdx": []
+            },
+            "id": 1002891,
+            "monthsOnJob": 12.00000000,
+            "name": "Not Awesome Computers",
+            "nameAliases": [],
+            "status": "Previous"
+          },
+          "id": 1002891,
+          "parts": [
+            {
+              "id": "1002891-BASE_PAY",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BASE_PAY-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BASE_PAY-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BASE_PAY-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BASE_PAY-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BASE_PAY-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BASE_PAY",
+              "footnotes": {}
+            },
+            {
+              "id": "1002891-OVERTIME",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-OVERTIME-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-OVERTIME-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-OVERTIME-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-OVERTIME-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-OVERTIME-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "OVERTIME",
+              "footnotes": {}
+            },
+            {
+              "id": "1002891-COMMISSIONS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-COMMISSIONS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-COMMISSIONS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-COMMISSIONS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-COMMISSIONS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-COMMISSIONS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "COMMISSIONS",
+              "footnotes": {}
+            },
+            {
+              "id": "1002891-BONUS",
+              "incomes": [
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BONUS-2022-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2022,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BONUS-2021-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2021,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BONUS-2020-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2020,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BONUS-2019-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2019,
+                  "ytd": false
+                },
+                {
+                  "allAnnualSummary": [],
+                  "id": "1002891-BONUS-2018-YEAR",
+                  "qualified": false,
+                  "selected": false,
+                  "variant": "YEAR",
+                  "year": 2018,
+                  "ytd": false
+                }
+              ],
+              "qualified": false,
+              "selected": true,
+              "type": "BONUS",
+              "footnotes": {}
+            }
+          ],
+          "qualified": false,
+          "declaredIncome": {},
+          "selected": true
+        }
+      ],
+      "monthsOnCurrentJob": 0E-8,
+      "primaryInPair": false,
+      "declaredIncome": {
+        "BASE_PAY": 5123.22
+      },
+      "touchless": true,
+      "qualified": true,
+      "qualifyingIncome": 0E-8,
+      "refId": "CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6",
+      "selected": true
+    }
+  ],
+  "calculatedBy": {
+    "firstName": "automated",
+    "name": "automated"
+  },
+  "calculationDate": "2021-01-25T07:37:05Z",
+  "documents": {
+    "1002926": {
+      "conversionDateTime": "2019-11-04T00:15:26.898363",
+      "dataSourceId": "Voe-previous-job-0-Mary-Homeowner",
+      "documentId": "VOE-document-20142-3",
+      "errors": {
+        "optional": [
+          "PaymentPeriodType",
+          "PriorYearOvertimeIncomeAmount",
+          "SecondPriorYearBonusIncomeAmount",
+          "AvgHoursPerWeek",
+          "PriorYearCommissionsIncomeAmount",
+          "EmployeeSSN",
+          "SecondPriorYearBaseIncomeAmount",
+          "PriorYearTotalIncomeAmount",
+          "YearToDateCommissionsIncomeAmount",
+          "SecondPriorYearTotalIncomeAmount",
+          "EmploymentStartDate",
+          "SecondPriorYearCommissionsIncomeAmount",
+          "EmploymentIncomeFrequencyType",
+          "YearToDateTotalIncomeAmount",
+          "PriorYearBaseIncomeAmount",
+          "YearToDateOvertimeIncomeAmount",
+          "PriorYearBonusIncomeAmount",
+          "BaseIncomeAmount",
+          "YearToDateBaseIncomeAmount",
+          "YearToDateBonusIncomeAmount",
+          "YearToDateIncomeThroughDate",
+          "SecondPriorYearOvertimeIncomeAmount"
+        ]
+      },
+      "employerName": "Awesome Computers",
+      "id": 1002926,
+      "tags": [],
+      "type": "VOE"
+    },
+    "1002923": {
+      "conversionDateTime": "2020-03-11T13:49:06.479001",
+      "dataSourceId": "W2-two-yr-prior-0-Mary-Homeowner",
+      "documentId": "W2-document-20142-2",
+      "errors": {
+        "optional": [
+          "TaxpayerIdentifierValue",
+          "EmploymentIncomeAmount"
+        ]
+      },
+      "employerName": "Dept of Interior Inc",
+      "id": 1002923,
+      "tags": [],
+      "type": "W2"
+    },
+    "1002918": {
+      "conversionDateTime": "2020-03-11T13:49:06.479001",
+      "dataSourceId": "W2-previous-0-Mary-Homeowner",
+      "documentId": "W2-document-20142-1",
+      "errors": {
+        "optional": [
+          "TaxpayerIdentifierValue",
+          "EmploymentIncomeAmount"
+        ]
+      },
+      "employerName": "Dept of Interior Inc",
+      "id": 1002918,
+      "tags": [],
+      "type": "W2"
+    },
+    "1002885": {
+      "conversionDateTime": "2021-01-25T07:34:16.378863",
+      "dataSourceId": "DSOA7801E0D-BA64-1BBB-8160-1656E7BC457F",
+      "errors": {
+        "optional": [
+          "EmployerEndDate"
+        ]
+      },
+      "employerName": "Capsilon One Inc",
+      "id": 1002885,
+      "type": "LOAN_APP_FNM_CANONICAL"
+    },
+    "1002913": {
+      "conversionDateTime": "2020-03-11T13:51:52.772086",
+      "dataSourceId": "Paystub-ytd-0-Mary-Homeowner",
+      "documentId": "PAYSTUB-document-20142-0",
+      "errors": {},
+      "employerName": "Dept of Interior Inc",
+      "id": 1002913,
+      "tags": [],
+      "type": "PAYSTUB",
+      "payPeriodStartDate": "2021-03-01",
+      "payPeriodEndDate": "2021-03-31"
+    }
+  },
+  "featureToggles": {
+    "overtimeInclusionEnabled": true,
+    "commissionInclusionEnabled": true,
+    "bonusInclusionEnabled": true,
+    "teachersIncomeEnabled": true,
+    "secondaryJobsEnabled": false
+  },
+  "executionDate": "2021-02-28",
+  "worksheet": {
+    "underGeneration": false
+  },
+  "id": 1002883,
+  "lastStatusModification": "2021-01-25T07:37:05.194997Z",
+  "mortgageType": "Conventional",
+  "refId": "20142",
+  "rules": {
+    "INC-220#CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6": {
+      "applicantId": "CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6",
+      "ruleCode": "INC-220",
+      "ruleId": "INC-220",
+      "status": "NOT_APPLICABLE"
+    },
+    "INC-220#CLBA84786FD-EA68-517D-F5B9-BE5C269B7925": {
+      "applicantId": "CLBA84786FD-EA68-517D-F5B9-BE5C269B7925",
+      "ruleCode": "INC-220",
+      "ruleId": "INC-220",
+      "status": "WAIVED"
+    },
+    "INC-380#CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6": {
+      "applicantId": "CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6",
+      "ruleCode": "INC-380",
+      "ruleId": "INC-380",
+      "status": "NOT_APPLICABLE"
+    },
+    "INC-950#CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6": {
+      "applicantId": "CLB169A4E6F-F509-2E86-BAEA-46F18EC1E2D6",
+      "ruleCode": "INC-950",
+      "ruleId": "INC-950",
+      "status": "NOT_APPLICABLE"
+    },
+    "INC-950#CLBA84786FD-EA68-517D-F5B9-BE5C269B7925": {
+      "applicantId": "CLBA84786FD-EA68-517D-F5B9-BE5C269B7925",
+      "ruleCode": "INC-950",
+      "ruleId": "INC-950",
+      "status": "PASSED"
+    }
+  },
+  "siteGUID": "ad0dfa5c-9bc9-4e73-83a7-f0837f4aa4fb",
+  "status": "LOCK",
+  "failedRuleCount": 0,
+  "totalQualifyingIncome": {
+    "qualifyingIncome": 2500.00000000
+  },
+  "touchless": true,
+  "urlaVersion": "URLA_2009"
+}

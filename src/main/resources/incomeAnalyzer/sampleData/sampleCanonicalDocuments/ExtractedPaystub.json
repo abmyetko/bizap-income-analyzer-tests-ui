@@ -1,0 +1,182 @@
+[
+	{
+		"dataSourceStatus": "EXTRACTED",
+		"siteGuid": "4e21b090-c7c1-11e8-92b4-1db960374706",
+		"folderId": "213467",
+		"dataSourceId": "DSOEA0965FA-CCBA-F319-A9D7-0EE2A40DE987",
+		"documentId": "DTAB147163-D206-4C8D-B037-D72AC6F11025",
+		"canonicalDocumentType": "PAYSTUB",
+		"dvFolderId": "FX95F06F46-432D-3249-5A10-2D48FD4E1FE7",
+		"documentTags": [],
+		"canonicalPayload": {
+			"id": "DSOEA0965FA-CCBA-F319-A9D7-0EE2A40DE987",
+			"applicant": [
+				{
+					"id": "APPLICANT::8FC75F64E07D5ECE",
+					"collaboratorId": "CLBD00529EC-159F-7F86-7AC0-250AEA1B5A10",
+					"name": {
+						"id": "APPLICANT::8FC75F64E07D5ECE#NAME::17DD59FE46B72494",
+						"fullName": "John Homeowner",
+						"firstName": "John",
+						"lastName": "Homeowner"
+					},
+					"roleDetail": {
+						"id": "APPLICANT::8FC75F64E07D5ECE#ROLE_DETAIL::D092DC0DF3FE1DFC",
+						"partyRoleType": "Borrower"
+					},
+					"taxpayerIdentifier": [
+						{
+							"id": "APPLICANT::8FC75F64E07D5ECE#TAXPAYER_IDENTIFIER::B64F150DB13BAD2C",
+							"taxpayerIdentifierType": "SocialSecurityNumber",
+							"taxpayerIdentifierValue": "999405000"
+						}
+					],
+					"employer": [
+						{
+							"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F",
+							"address": {
+								"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#ADDRESS::D02EDF30E7BC7E95",
+								"addressLineText": "1",
+								"cityName": "Washington",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"legalEntity": {
+								"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#LEGAL_ENTITY::5E09731D8BB0383E",
+								"legalEntityDetail": {
+									"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#LEGAL_ENTITY::5E09731D8BB0383E#LEGAL_ENTITY_DETAIL::7A36681924B5F1C4",
+									"fullName": "[Bul Onder]"
+								}
+							},
+							"employment": {
+								"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#EMPLOYMENT::20A50491FEFA8D59",
+								"employmentIncomeAmount": 2419.2,
+								"employmentIncomeNetAmount": 1855.65
+							},
+							"incomeItem": [
+								{
+									"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#INCOME_ITEM::E60563932A0CD291",
+									"incomeItemSummary": {
+										"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#INCOME_ITEM::E60563932A0CD291#INCOME_ITEM_SUMMARY::E0169289A1EEADB2",
+										"applicantTotalYearToDateIncomeAmount": 12999.17,
+										"applicantTotalYearToDateIncomeNetAmount": 16376.4
+									},
+									"incomeDocumentation": {
+										"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#INCOME_ITEM::E60563932A0CD291#INCOME_DOCUMENTATION::3BEED6EC3CE6242A",
+										"documentPeriodStartDate": "2020-01-18",
+										"documentPeriodEndDate": "2020-01-31",
+										"incomePayCheckDate": "2020-02-07"
+									}
+								},								{
+									"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#INCOME_ITEM::843EC59B4D98F0F4",
+									"incomeItemDetail": [
+										{
+											"id": "APPLICANT::8FC75F64E07D5ECE#EMPLOYER::7931529BDD6BAB5F#INCOME_ITEM::843EC59B4D98F0F4#INCOME_ITEM_DETAIL::AD55AC1DAACED8D0",
+											"incomeType": "Base",
+											"incomeTypeHourlyPayRatePercent": 3000.0,
+											"incomeTypeTotalAmount": 2500.0,
+											"incomeTypeYearToDateAmount": 30000.0
+										}
+									]
+								}
+							]
+						}
+					],
+					"applicantDetail": {
+						"id": "APPLICANT::8FC75F64E07D5ECE#APPLICANT_DETAIL::AE535FC345AFAD69"
+					},
+					"address": {
+						"id": "APPLICANT::8FC75F64E07D5ECE#ADDRESS::5C167C7BE27164CF",
+						"addressLineText": "175 13th Street 1",
+						"cityName": "Washington",
+						"postalCode": "20013",
+						"stateCode": "DC"
+					},
+					"irsTaxDocument": [
+						{
+							"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D",
+							"irsTaxDocumentData": {
+								"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72",
+								"incomeTaxItem": [
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::1A515286B4CF7CF5",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::1A515286B4CF7CF5#INCOME_TAX_ITEM_DETAIL::AD7F08BC64BF3E8D",
+											"incomeTaxType": "Other",
+											"incomeTaxTypeOtherDescription": "Vision Pre -Tax",
+											"incomeTaxAmount": -2.48,
+											"incomeTaxYearToDateAmount": 12.4
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::4F8E335A3227B33B",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::4F8E335A3227B33B#INCOME_TAX_ITEM_DETAIL::9762B7F1530E1FF5",
+											"incomeTaxType": "Other",
+											"incomeTaxTypeOtherDescription": "Other"
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::2CBCF90BC2003862",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::2CBCF90BC2003862#INCOME_TAX_ITEM_DETAIL::F4E7B45E67CC2A56",
+											"incomeTaxType": "Medicare",
+											"incomeTaxAmount": -35.08,
+											"incomeTaxYearToDateAmount": 175.4
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::AB1B732F4DA116B0",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::AB1B732F4DA116B0#INCOME_TAX_ITEM_DETAIL::6268131C05208AE7",
+											"incomeTaxType": "SocialSecurity",
+											"incomeTaxAmount": -149.99,
+											"incomeTaxYearToDateAmount": 749.95
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::2222D96C094B719B",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::2222D96C094B719B#INCOME_TAX_ITEM_DETAIL::E7098B4165FCF91F",
+											"incomeTaxType": "Federal",
+											"incomeTaxAmount": -340.84,
+											"incomeTaxYearToDateAmount": 1704.2
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::06D77726D6E6FE7C",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::06D77726D6E6FE7C#INCOME_TAX_ITEM_DETAIL::1705293F9F60A554",
+											"incomeTaxType": "Other",
+											"incomeTaxTypeOtherDescription": "Pre -Tax Med",
+											"incomeTaxAmount": -26.52,
+											"incomeTaxYearToDateAmount": 132.6
+										}
+									},
+									{
+										"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::5DF37D6421CE58BA",
+										"incomeTaxItemDetail": {
+											"id": "APPLICANT::8FC75F64E07D5ECE#IRS_TAX_DOCUMENT::08C587CC7E1B825D#IRS_TAX_DOCUMENT_DATA::E37E9DF608940C72#INCOME_TAX_ITEM::5DF37D6421CE58BA#INCOME_TAX_ITEM_DETAIL::ADC7CDD0C7B007A2",
+											"incomeTaxType": "Other",
+											"incomeTaxTypeOtherDescription": "Dental Pretax",
+											"incomeTaxYearToDateAmount": 43.2
+										}
+									}
+								]
+							}
+						}
+					]
+				}
+			]
+		},
+		"created": "2020-03-11T13:53:43",
+		"modified": "2020-03-11T13:53:43",
+		"dateReceived": "2020-03-11T13:49:11",
+		"dateClientReceived": "2020-03-11T13:49:11",
+		"conversionDateTime": "2020-03-11T13:51:52.772086",
+		"metadata": {
+			"dmsModified": "2020-03-20T13:26:47.183201Z",
+			"dmsCreated": "2020-03-20T13:26:47.183201Z"
+		}
+	}
+]

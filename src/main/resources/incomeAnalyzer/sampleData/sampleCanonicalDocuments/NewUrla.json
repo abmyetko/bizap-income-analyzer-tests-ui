@@ -1,0 +1,1069 @@
+[
+	{
+		"dataSourceStatus": "EXTRACTED",
+		"siteGuid": "6e1b2800-1b84-11ea-a732-73c4ba6a9399",
+		"folderId": "3224",
+		"dataSourceId": "DSO16DA9A80-87DD-FF9E-764A-6D4D79BACEA5",
+		"canonicalDocumentType": "URLA",
+		"sourceCanonicalDocumentType": "LOAN_APPLICATION_FNM",
+		"dvFolderId": "FXFDBDAAA2-7533-A65C-BE2F-D56CF2E4D6F2",
+		"documentTags": [],
+		"canonicalPayload": {
+			"id": "DSO16DA9A80-87DD-FF9E-764A-6D4D79BACEA5",
+			"applicant": [
+				{
+					"id": "APPLICANT::1428D51B87B99A48",
+					"collaboratorId": "CLB56B41632-79D9-0DB1-9443-7DE1013244B2",
+					"applicantDetail": {
+						"id": "APPLICANT::1428D51B87B99A48#APPLICANT_DETAIL::8AA048D7C9E9C342",
+						"applicantClassificationType": "Primary",
+						"jointAssetLiabilityReportingType": "Jointly",
+						"maritalStatusType": "Married",
+						"applicantAgeAtApplicationYearsCount": 48,
+						"jointAssetLiabilityReportingApplicantCrossReferenceIdentifier": "500222000",
+						"schoolingYearsCount": 15,
+						"dependentCount": 2,
+						"applicantBirthDate": "1970-04-12"
+					},
+					"housingExpense": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::0A902422CF00DE13",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "MIPremium",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::6038B6FD7420770F",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "HomeownersAssociationDuesAndCondominiumFees",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::5B3C67F3AA24481D",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "Other",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::026C90EDD048CE8B",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "HomeownersInsurance",
+							"housingExpensePaymentAmount": 120.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::FC75647F102A48A3",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "MIPremium",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::4C6EC5FFC46FB79E",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "Other",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::750BE27945EA8BC7",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "HomeownersAssociationDuesAndCondominiumFees",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::9BC6551FDA0BCA93",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "OtherMortgageLoanPrincipalAndInterest",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::1A3D543E5343BECC",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "Rent",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::A363327DAD2A2C28",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "RealEstateTax",
+							"housingExpensePaymentAmount": 125.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::9EB6921A4F1D2CD3",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "HomeownersInsurance",
+							"housingExpensePaymentAmount": 140.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::C0359A4EFFDD7B82",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "FirstMortgagePrincipalAndInterest",
+							"housingExpensePaymentAmount": 1740.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::A90AD9200DD654A1",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "FirstMortgagePrincipalAndInterest",
+							"housingExpensePaymentAmount": 1274.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::D82F70F2CDFB7085",
+							"housingExpenseTimingType": "Present",
+							"housingExpenseType": "OtherMortgageLoanPrincipalAndInterest",
+							"housingExpensePaymentAmount": 0.0
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#HOUSING_EXPENSE::F9CE67FCF5EB0024",
+							"housingExpenseTimingType": "Proposed",
+							"housingExpenseType": "RealEstateTax",
+							"housingExpensePaymentAmount": 80.0
+						}
+					],
+					"employer": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F",
+							"legalEntity": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#LEGAL_ENTITY::B3367D8FE8D09FD7",
+								"legalEntityDetail": {
+									"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#LEGAL_ENTITY::B3367D8FE8D09FD7#LEGAL_ENTITY_DETAIL::1D1002B50367DBED",
+									"fullName": "Dept of Interior"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#LEGAL_ENTITY::B3367D8FE8D09FD7#CONTACT::0AE63A497E398D5E",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#LEGAL_ENTITY::B3367D8FE8D09FD7#CONTACT::0AE63A497E398D5E#CONTACT_POINT::4ACEC149915D2321",
+												"contactPointDetail": {
+													"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#LEGAL_ENTITY::B3367D8FE8D09FD7#CONTACT::0AE63A497E398D5E#CONTACT_POINT::4ACEC149915D2321#CONTACT_POINT_DETAIL::1E307E378254326D",
+													"contactPointRoleType": "Work"
+												},
+												"contactPointValue": "5555559991",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#ADDRESS::D82C39914075D89D",
+								"addressLineText": "1 CLOVE RD",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#EMPLOYMENT::00AECD030C351CD7",
+								"employmentClassificationType": "Primary",
+								"employmentStatusType": "Current",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentPositionDescription": "Sales Executive",
+								"employmentTimeInLineOfWorkYearsCount": 3,
+								"employmentStartDate": "2004-12-31"
+							},
+							"incomeItem": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#INCOME_ITEM::C2EB9A820528977D",
+								"incomeItemDetail": [
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#INCOME_ITEM::C2EB9A820528977D#INCOME_ITEM_DETAIL::5A3926CEDF5E0E31",
+										"incomeType": "Base",
+										"incomeTypeTotalAmount": 5400
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#INCOME_ITEM::C2EB9A820528977D#INCOME_ITEM_DETAIL::5A3926CEDF5E0E32",
+										"incomeType": "Commissions",
+										"incomeTypeTotalAmount": 1000
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#INCOME_ITEM::C2EB9A820528977D#INCOME_ITEM_DETAIL::5A3926CEDF5E0E33",
+										"incomeType": "Overtime",
+										"incomeTypeTotalAmount": 2200
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::484D41BC7F53456F#INCOME_ITEM::C2EB9A820528977D#INCOME_ITEM_DETAIL::5A3926CEDF5E0E34",
+										"incomeType": "Bonus",
+										"incomeTypeTotalAmount": 210
+									}
+								]
+							}
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA",
+							"legalEntity": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06",
+								"legalEntityDetail": {
+									"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06#LEGAL_ENTITY_DETAIL::391775DD39ECED64",
+									"fullName": "SecEmp2"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06#CONTACT::0D62D94BCF353583",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06#CONTACT::0D62D94BCF353583#CONTACT_POINT::84630365CA0E45EC",
+												"contactPointDetail": {
+													"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06#CONTACT::0D62D94BCF353583#CONTACT_POINT::84630365CA0E45EC#CONTACT_POINT_DETAIL::287BF7A5DA4C6CDB",
+													"contactPointRoleType": "Work"
+												}
+											},
+											{
+												"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#LEGAL_ENTITY::2D8A383A3B91AF06#CONTACT::0D62D94BCF353583#CONTACT_POINT::6A5B6FFDD5CDF642",
+												"contactPointValue": "5555551234",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#ADDRESS::CE780CCE373B997D",
+								"addressLineText": "11111 FOUNTAIN ST",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#EMPLOYMENT::F6FEF613BE6F9942",
+								"employmentClassificationType": "Secondary",
+								"employmentStatusType": "Current",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentPositionDescription": "Computer Technician",
+								"employmentStartDate": "2017-01-01",
+								"employmentIncomeAmount": 8810.0
+							},
+							"incomeItem": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#INCOME_ITEM::C2EB9A820528989C",
+								"incomeItemDetail": [
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E31",
+										"incomeType": "Base",
+										"incomeTypeTotalAmount": 5400
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E32",
+										"incomeType": "Commissions",
+										"incomeTypeTotalAmount": 1000
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E33",
+										"incomeType": "Overtime",
+										"incomeTypeTotalAmount": 2200
+									},
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::F1D430C3555AC4BA#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E34",
+										"incomeType": "Bonus",
+										"incomeTypeTotalAmount": 210
+									}
+								]
+							}
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881",
+							"legalEntity": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0",
+								"legalEntityDetail": {
+									"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0#LEGAL_ENTITY_DETAIL::B07A9DB779144AAA",
+									"fullName": "Ouya Yebe Inc"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0#CONTACT::2C6D1FF0D476671F",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0#CONTACT::2C6D1FF0D476671F#CONTACT_POINT::06ADF0B191A6CD4F",
+												"contactPointDetail": {
+													"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0#CONTACT::2C6D1FF0D476671F#CONTACT_POINT::06ADF0B191A6CD4F#CONTACT_POINT_DETAIL::17F45445394BD65E",
+													"contactPointRoleType": "Work"
+												}
+											},
+											{
+												"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#LEGAL_ENTITY::9D09496B757AD1C0#CONTACT::2C6D1FF0D476671F#CONTACT_POINT::C928B731A097DA44",
+												"contactPointValue": "5555551234",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#ADDRESS::A70330169E70E34D",
+								"addressLineText": "11111 FOUNTAIN ST",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::1428D51B87B99A48#EMPLOYER::A8267BD645DF0881#EMPLOYMENT::25FED19177C8E3A3",
+								"employmentStatusType": "Previous",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentPositionDescription": "Lineman",
+								"employmentStartDate": "2018-01-01",
+								"employmentEndDate": "2020-01-31",
+								"employmentIncomeAmount": 3300.0
+							}
+						}
+					],
+					"name": {
+						"id": "APPLICANT::1428D51B87B99A48#NAME::DC562A3017A797DF",
+						"fullName": "Mary  Homeowner",
+						"firstName": "Mary",
+						"lastName": "Homeowner"
+					},
+					"taxpayerIdentifier": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#TAXPAYER_IDENTIFIER::E1DA063F0C8C562F",
+							"taxpayerIdentifierType": "SocialSecurityNumber",
+							"taxpayerIdentifierValue": "999405000"
+						}
+					],
+					"execution": {
+						"id": "APPLICANT::1428D51B87B99A48#EXECUTION::D857A79A5E07D6FC",
+						"executionDetail": {
+							"id": "APPLICANT::1428D51B87B99A48#EXECUTION::D857A79A5E07D6FC#EXECUTION_DETAIL::1FEC5E00BA055320",
+							"executionDate": "2019-03-05"
+						}
+					},
+					"incomeItem": {
+						"id": "APPLICANT::1428D51B87B99A48#INCOME_ITEM::0D208706686E861F",
+						"incomeItemDetail": []
+					},
+					"declarationDetail": {
+						"id": "APPLICANT::1428D51B87B99A48#DECLARATION_DETAIL::11CC69E1BC76BC95",
+						"homeownerPastThreeYearsType": "Yes",
+						"priorPropertyUsageType": "PrimaryResidence",
+						"citizenshipResidencyType": "USCitizen",
+						"priorPropertyTitleType": "JointWithSpouse",
+						"intentToOccupyType": "Yes",
+						"outstandingJudgmentsIndicator": false,
+						"borrowedDownPaymentIndicator": false,
+						"propertyForeclosedPastSevenYearsIndicator": false,
+						"presentlyDelinquentIndicator": false,
+						"loanForeclosureOrJudgmentIndicator": false,
+						"alimonyChildSupportObligationIndicator": false,
+						"partyToLawsuitIndicator": false,
+						"bankruptcyIndicator": false,
+						"coMakerEndorserOfNoteIndicator": false
+					},
+					"residence": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#RESIDENCE::900E47C8CDA8ED14",
+							"address": {
+								"id": "APPLICANT::1428D51B87B99A48#RESIDENCE::900E47C8CDA8ED14#ADDRESS::00617796C67AF1D5",
+								"addressLineText": "175 13TH ST",
+								"cityName": "WASHINGTON",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"residenceDetail": {
+								"id": "APPLICANT::1428D51B87B99A48#RESIDENCE::900E47C8CDA8ED14#RESIDENCE_DETAIL::9F5191CA1CEECD19",
+								"applicantResidencyBasisType": "Own",
+								"applicantResidencyDurationYearsCount": 8,
+								"applicantResidencyType": "Current"
+							}
+						}
+					],
+					"contact": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#CONTACT::4483D021B2F44CF2",
+							"contactPoint": [
+								{
+									"id": "APPLICANT::1428D51B87B99A48#CONTACT::4483D021B2F44CF2#CONTACT_POINT::F60979D8D0A05C90",
+									"contactPointDetail": {
+										"id": "APPLICANT::1428D51B87B99A48#CONTACT::4483D021B2F44CF2#CONTACT_POINT::F60979D8D0A05C90#CONTACT_POINT_DETAIL::AAF0CE59668917D4",
+										"contactPointRoleType": "Home"
+									},
+									"contactPointValue": "2019874554",
+									"contactPointType": "Telephone"
+								},
+								{
+									"id": "APPLICANT::1428D51B87B99A48#CONTACT::4483D021B2F44CF2#CONTACT_POINT::A547E41053E2FE24",
+									"contactPointType": "Email"
+								}
+							]
+						}
+					],
+					"dependent": [
+						{
+							"id": "APPLICANT::1428D51B87B99A48#DEPENDENT::EB72B62E8BF8C1A2",
+							"dependentAgeYearsCount": 11
+						},
+						{
+							"id": "APPLICANT::1428D51B87B99A48#DEPENDENT::107B4E7641309CC9",
+							"dependentAgeYearsCount": 4
+						}
+					]
+				},
+				{
+					"id": "APPLICANT::ACAA8EDEC604303C",
+					"collaboratorId": "CLB8D1247E1-A69A-D78A-7AB6-4FD16945EF76",
+					"applicantDetail": {
+						"id": "APPLICANT::ACAA8EDEC604303C#APPLICANT_DETAIL::BDB97578D67D2CFE",
+						"applicantClassificationType": "Secondary",
+						"maritalStatusType": "Married",
+						"jointAssetLiabilityReportingApplicantCrossReferenceIdentifier": "999405000",
+						"schoolingYearsCount": 15,
+						"dependentCount": 2,
+						"applicantBirthDate": "1972-08-02"
+					},
+					"employer": [
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217",
+							"legalEntity": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#LEGAL_ENTITY::3CC2FF31A48E3C16",
+								"legalEntityDetail": {
+									"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#LEGAL_ENTITY::3CC2FF31A48E3C16#LEGAL_ENTITY_DETAIL::FCE84FD342FB226F",
+									"fullName": "Dept of Exterior"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#LEGAL_ENTITY::3CC2FF31A48E3C16#CONTACT::642B82EB19B44268",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#LEGAL_ENTITY::3CC2FF31A48E3C16#CONTACT::642B82EB19B44268#CONTACT_POINT::98DF576E0C9B19F0",
+												"contactPointDetail": {
+													"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#LEGAL_ENTITY::3CC2FF31A48E3C16#CONTACT::642B82EB19B44268#CONTACT_POINT::98DF576E0C9B19F0#CONTACT_POINT_DETAIL::9503789720A2ECBA",
+													"contactPointRoleType": "Work"
+												},
+												"contactPointValue": "5555559991",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#ADDRESS::F716A7DBB651AD6C",
+								"addressLineText": "1 CLOVE RD",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#EMPLOYMENT::FE20A04AE525F2FF",
+								"employmentClassificationType": "Primary",
+								"employmentStatusType": "Current",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentMonthsOnJobCount": 5,
+								"employmentPositionDescription": "Sales Executive",
+								"employmentTimeInLineOfWorkYearsCount": 3,
+								"employmentYearsOnJobCount": 15,
+								"employmentStartDate": "2004-12-31",
+								"employmentIncomeAmount": 3200.0
+							},
+							"incomeItem": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#INCOME_ITEM::C2EB9A820528888C",
+								"incomeItemDetail": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E31",
+										"incomeType": "Base",
+										"incomeTypeTotalAmount": 5400
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E32",
+										"incomeType": "Commissions",
+										"incomeTypeTotalAmount": 1000
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E33",
+										"incomeType": "Overtime",
+										"incomeTypeTotalAmount": 2200
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA217#INCOME_ITEM::C2EB9A820528989C#INCOME_ITEM_DETAIL::5B3926CEDF5E0E34",
+										"incomeType": "Bonus",
+										"incomeTypeTotalAmount": 210
+									}
+								]
+							}
+						},
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217",
+							"legalEntity": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#LEGAL_ENTITY::3CC2FF31A48F3C16",
+								"legalEntityDetail": {
+									"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#LEGAL_ENTITY::3CC2FF31A48F3C16#LEGAL_ENTITY_DETAIL::FCE84FD322FB226F",
+									"fullName": "Secondo Job r"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#LEGAL_ENTITY::3CC2FF31A48F3C16#CONTACT::642B82EB19B55268",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#LEGAL_ENTITY::3CC2FF31A48F3C16#CONTACT::642B82EB19B44668#CONTACT_POINT::98DF576E1C9B19F0",
+												"contactPointDetail": {
+													"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#LEGAL_ENTITY::3CC2FF31A48F3C16#CONTACT::642B82EB19B44668#CONTACT_POINT::98DF576E1C9B19F0#CONTACT_POINT_DETAIL::9503739720A2ECBA",
+													"contactPointRoleType": "Work"
+												},
+												"contactPointValue": "5555559991",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#ADDRESS::F716A1DBB651AD6C",
+								"addressLineText": "1 CLOVE RD",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#EMPLOYMENT::FE20A11AE525F2FF",
+								"employmentClassificationType": "Secondary",
+								"employmentStatusType": "Current",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentPositionDescription": "Computer Technician",
+								"employmentStartDate": "2017-01-01",
+								"employmentIncomeAmount": 8810.0
+							},
+							"incomeItem": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#INCOME_ITEM::C2EB9A820522888C",
+								"incomeItemDetail": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#INCOME_ITEM::C2EB9A223528989C#INCOME_ITEM_DETAIL::5B3926CADF5E0E31",
+										"incomeType": "Base",
+										"incomeTypeTotalAmount": 5400
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#INCOME_ITEM::C2EB9A223528989C#INCOME_ITEM_DETAIL::5B3926CADF5E0E31",
+										"incomeType": "Commissions",
+										"incomeTypeTotalAmount": 1000
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#INCOME_ITEM::C2EB9A223528989C#INCOME_ITEM_DETAIL::5B3926CADF5E0E31",
+										"incomeType": "Overtime",
+										"incomeTypeTotalAmount": 2200
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4BBB217#INCOME_ITEM::C2EB9A223528989C#INCOME_ITEM_DETAIL::5B3926CADF5E0E31",
+										"incomeType": "Bonus",
+										"incomeTypeTotalAmount": 210
+									}
+								]
+							}
+						},
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233",
+							"legalEntity": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#LEGAL_ENTITY::3CC2FF31A48E3C32",
+								"legalEntityDetail": {
+									"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#LEGAL_ENTITY::3CC2FF31A48E3C32#LEGAL_ENTITY_DETAIL::FCE812D342FB226F",
+									"fullName": "Privio Job"
+								},
+								"contact": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#LEGAL_ENTITY::3CC2FF31A48E3C32#CONTACT::642B832B19B44268",
+										"contactPoint": [
+											{
+												"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#LEGAL_ENTITY::3CC2FF31A48E3C32#CONTACT::642B832B19B44268#CONTACT_POINT::98DF126E0C9B19F0",
+												"contactPointDetail": {
+													"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#LEGAL_ENTITY::3CC2FF31A48E3C32#CONTACT::642B832B19B44268#CONTACT_POINT::98DF126E0C9B19F0#CONTACT_POINT_DETAIL::950378971232ECBA",
+													"contactPointRoleType": "Work"
+												},
+												"contactPointValue": "5555559991",
+												"contactPointType": "Telephone"
+											}
+										]
+									}
+								]
+							},
+							"address": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#ADDRESS::F716A7AAB651AD6C",
+								"addressLineText": "1 CLOVE RD",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"employment": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#EMPLOYMENT::FE20A04ATF25F2FF",
+								"employmentStatusType": "Previous",
+								"employmentApplicantSelfEmployedIndicator": false,
+								"employmentPositionDescription": "Lineman",
+								"employmentStartDate": "2018-01-01",
+								"employmentEndDate": "2020-01-31",
+								"employmentIncomeAmount": 3300.0
+							},
+							"incomeItem": {
+								"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#INCOME_ITEM::C2EB9A820522388C",
+								"incomeItemDetail": [
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#INCOME_ITEM::C2EQ2A820528989C#INCOME_ITEM_DETAIL::5B3926CVFH5E0E31",
+										"incomeType": "Base",
+										"incomeTypeTotalAmount": 5400
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#INCOME_ITEM::C2EQ2A820528989C#INCOME_ITEM_DETAIL::5B3926CVFH5E0E31",
+										"incomeType": "Commissions",
+										"incomeTypeTotalAmount": 1000
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#INCOME_ITEM::C2EQ2A820528989C#INCOME_ITEM_DETAIL::5B3926CVFH5E0E31",
+										"incomeType": "Overtime",
+										"incomeTypeTotalAmount": 2200
+									},
+									{
+										"id": "APPLICANT::ACAA8EDEC604303C#EMPLOYER::0E791804A4AAA233#INCOME_ITEM::C2EQ2A820528989C#INCOME_ITEM_DETAIL::5B3926CVFH5E0E31",
+										"incomeType": "Bonus",
+										"incomeTypeTotalAmount": 210
+									}
+								]
+							}
+						}
+					],
+					"name": {
+						"id": "APPLICANT::ACAA8EDEC604303C#NAME::9061511774FBA263",
+						"fullName": "Erica  Lambert",
+						"firstName": "Erica",
+						"lastName": "Lambert"
+					},
+					"taxpayerIdentifier": [
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#TAXPAYER_IDENTIFIER::FE2CA5668BBA6837",
+							"taxpayerIdentifierType": "SocialSecurityNumber",
+							"taxpayerIdentifierValue": "500222000"
+						}
+					],
+					"execution": {
+						"id": "APPLICANT::ACAA8EDEC604303C#EXECUTION::2CEC107114685444",
+						"executionDetail": {
+							"id": "APPLICANT::ACAA8EDEC604303C#EXECUTION::2CEC107114685444#EXECUTION_DETAIL::A23469D8AC287C91",
+							"executionDate": "2019-03-05"
+						}
+					},
+					"incomeItem": {
+						"id": "APPLICANT::ACAA8EDEC604303C#INCOME_ITEM::8D2D149A4ADF2D42",
+						"incomeItemDetail": []
+					},
+					"declarationDetail": {
+						"id": "APPLICANT::ACAA8EDEC604303C#DECLARATION_DETAIL::3BB90184C8725ABB",
+						"homeownerPastThreeYearsType": "Yes",
+						"priorPropertyUsageType": "PrimaryResidence",
+						"citizenshipResidencyType": "USCitizen",
+						"priorPropertyTitleType": "JointWithSpouse",
+						"intentToOccupyType": "Yes",
+						"outstandingJudgmentsIndicator": false,
+						"borrowedDownPaymentIndicator": false,
+						"propertyForeclosedPastSevenYearsIndicator": false,
+						"presentlyDelinquentIndicator": false,
+						"loanForeclosureOrJudgmentIndicator": false,
+						"alimonyChildSupportObligationIndicator": false,
+						"partyToLawsuitIndicator": false,
+						"bankruptcyIndicator": false,
+						"coMakerEndorserOfNoteIndicator": false
+					},
+					"residence": [
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#RESIDENCE::BDB2EB6784FCD51E",
+							"address": {
+								"id": "APPLICANT::ACAA8EDEC604303C#RESIDENCE::BDB2EB6784FCD51E#ADDRESS::39C4FDB50E1F3F9A",
+								"addressLineText": "175 13TH ST",
+								"cityName": "WASHINGTON",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"residenceDetail": {
+								"id": "APPLICANT::ACAA8EDEC604303C#RESIDENCE::BDB2EB6784FCD51E#RESIDENCE_DETAIL::60B556E207AE2EA2",
+								"applicantResidencyBasisType": "Own",
+								"applicantResidencyDurationYearsCount": 8,
+								"applicantResidencyType": "Current"
+							}
+						}
+					],
+					"contact": [
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#CONTACT::586D5ADA742EB4AB",
+							"contactPoint": [
+								{
+									"id": "APPLICANT::ACAA8EDEC604303C#CONTACT::586D5ADA742EB4AB#CONTACT_POINT::06765B11E115B662",
+									"contactPointDetail": {
+										"id": "APPLICANT::ACAA8EDEC604303C#CONTACT::586D5ADA742EB4AB#CONTACT_POINT::06765B11E115B662#CONTACT_POINT_DETAIL::F03EE14866957E4B",
+										"contactPointRoleType": "Home"
+									},
+									"contactPointType": "Telephone"
+								},
+								{
+									"id": "APPLICANT::ACAA8EDEC604303C#CONTACT::586D5ADA742EB4AB#CONTACT_POINT::91369E9201B92F4D",
+									"contactPointType": "Email"
+								}
+							]
+						}
+					],
+					"dependent": [
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#DEPENDENT::C958ABEB36B4FE45",
+							"dependentAgeYearsCount": 19
+						},
+						{
+							"id": "APPLICANT::ACAA8EDEC604303C#DEPENDENT::C5F3046E4CEC3DDA",
+							"dependentAgeYearsCount": 8
+						}
+					]
+				}
+			],
+			"loanOriginator": {
+				"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0",
+				"execution": {
+					"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#EXECUTION::D6CE22806807AD41",
+					"executionDetail": {
+						"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#EXECUTION::D6CE22806807AD41#EXECUTION_DETAIL::C11F6343BAC84B6A",
+						"executionDate": "2020-05-31"
+					}
+				},
+				"license": {
+					"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LICENSE::5AD7E81D1C774E7E",
+					"licenseDetail": {
+						"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LICENSE::5AD7E81D1C774E7E#LICENSE_DETAIL::1BA47C317044782A",
+						"licenseIdentifier": "621895"
+					}
+				},
+				"loanOriginationCompany": {
+					"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LOAN_ORIGINATION_COMPANY::1F99B35CC7FD91E8",
+					"license": {
+						"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LOAN_ORIGINATION_COMPANY::1F99B35CC7FD91E8#LICENSE::85702C71C922A038",
+						"licenseDetail": {
+							"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LOAN_ORIGINATION_COMPANY::1F99B35CC7FD91E8#LICENSE::85702C71C922A038#LICENSE_DETAIL::78876AFCA1720C51",
+							"licenseIdentifier": "135776"
+						}
+					},
+					"legalEntityDetail": {
+						"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LOAN_ORIGINATION_COMPANY::1F99B35CC7FD91E8#LEGAL_ENTITY_DETAIL::63969FB53DBE16AE",
+						"fullName": "Fico Bank"
+					},
+					"address": {
+						"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#LOAN_ORIGINATION_COMPANY::1F99B35CC7FD91E8#ADDRESS::06EABD50E5BB907F",
+						"addressLineText": "412 Housing Street",
+						"addressAdditionalLineText": "Express Tower",
+						"cityName": "Washington",
+						"postalCode": "20012",
+						"stateCode": "DC",
+						"plusFourZipCode": "1234"
+					}
+				},
+				"contactPoint": {
+					"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#CONTACT_POINT::E32724993675900C",
+					"contactPointValue": "2125551212"
+				},
+				"name": {
+					"id": "LOAN_ORIGINATOR::D6088CF133E3BCF0#NAME::CB2E2E923D363CB2",
+					"fullName": "James Smith"
+				}
+			},
+			"subjectProperty": {
+				"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E",
+				"propertyDetail": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#PROPERTY_DETAIL::AE9CAD8B482D8DFD",
+					"propertyUsageType": "PrimaryResidence",
+					"attachmentType": "Detached",
+					"financedUnitCount": 11,
+					"propertyEstateType": "FeeSimple",
+					"propertyStructureBuiltYear": 1980
+				},
+				"address": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#ADDRESS::2686255F649D131B",
+					"addressLineText": "1095 LONDON AVE",
+					"cityName": "WASHINGTON",
+					"postalCode": "20013",
+					"stateCode": "DC",
+					"plusFourZipCode": "5208"
+				},
+				"salesContract": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#SALES_CONTRACT::858E99ADD5455751",
+					"salesContractDetail": {
+						"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#SALES_CONTRACT::858E99ADD5455751#SALES_CONTRACT_DETAIL::F06FBFE50C1EC133",
+						"purchasePriceOrSalesContractAmount": 225000.0
+					}
+				},
+				"legalDescription": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LEGAL_DESCRIPTION::E08AD3532C1AE895",
+					"parsedLegalDescription": {
+						"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LEGAL_DESCRIPTION::E08AD3532C1AE895#PARSED_LEGAL_DESCRIPTION::ECE929188D1DB97A",
+						"unplattedLand": {
+							"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LEGAL_DESCRIPTION::E08AD3532C1AE895#PARSED_LEGAL_DESCRIPTION::ECE929188D1DB97A#UNPLATTED_LAND::A02682F98FC10CF0"
+						}
+					},
+					"unparsedLegalDescription": {
+						"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LEGAL_DESCRIPTION::E08AD3532C1AE895#UNPARSED_LEGAL_DESCRIPTION::1710F2D562837183",
+						"unparsedLegalDescription": "T2,AND THE SOUTH 1/2  OF LOT 19, WEST 7 FEET OF SOUTH 1/2 OF LOT 2, WEST 60F"
+					}
+				},
+				"locationIdentifier": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LOCATION_IDENTIFIER::C20E7912B905FDC4",
+					"generalIdentifier": {
+						"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#LOCATION_IDENTIFIER::C20E7912B905FDC4#GENERAL_IDENTIFIER::F2928ED4DF3A39D0",
+						"msaIdentifier": "Orange"
+					}
+				},
+				"project": {
+					"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#PROJECT::76447A3661A6A7FF",
+					"projectDetail": {
+						"id": "SUBJECT_PROPERTY::B2FE04C0DDE80D5E#PROJECT::76447A3661A6A7FF#PROJECT_DETAIL::8DE32EBB655536F0",
+						"projectClassificationIdentifier": "E PUD"
+					}
+				},
+				"propertyValuation": {
+					"id": "SUBJECT_PROPERTY::B6E6DE6D11108108#PROPERTY_VALUATION::1436589233595017",
+					"propertyValuationDetail": {
+						"id": "SUBJECT_PROPERTY::B6E6DE6D11108108#PROPERTY_VALUATION::1436589233595017#PROPERTY_VALUATION_DETAIL::7281379A5AB30C33",
+						"propertyValuationAmount": 170000.0
+					}
+				}
+			},
+			"liabilities": {
+				"id": "LIABILITIES::4691CC990A21AF2C",
+				"liability": [
+					{
+						"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0",
+						"liabilityHolder": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#LIABILITY_HOLDER::F0BAC44B12F3EB5A",
+							"address": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#LIABILITY_HOLDER::F0BAC44B12F3EB5A#ADDRESS::5A060697D3CF583B",
+								"addressLineText": "11 SQ ST",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20015",
+								"stateCode": "DC"
+							},
+							"name": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#LIABILITY_HOLDER::F0BAC44B12F3EB5A#NAME::E9A8FE658DD3F61C",
+								"fullName": "GM Credit Union"
+							}
+						},
+						"liabilityDetail": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#LIABILITY_DETAIL::27090C5E075CD41C",
+							"liabilityType": "MortgageLoan",
+							"liabilityRemainingTermMonthsCount": 234,
+							"liabilityUnpaidBalanceAmount": 140000.0,
+							"liabilityMonthlyPaymentAmount": 1539.0,
+							"subjectLoanResubordinationIndicator": true,
+							"liabilityExclusionIndicator": false,
+							"liabilityPayoffStatusIndicator": false,
+							"liabilitySecuredBySubjectPropertyIndicator": false,
+							"liabilityAccountIdentifier": "123456789"
+						},
+						"asset": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#ASSET::E102188B496C81E7",
+							"ownedProperty": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#ASSET::E102188B496C81E7#OWNED_PROPERTY::63923ED53031BC7A",
+								"propertyDetail": {
+									"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::52B873CFD9BC38A0#ASSET::E102188B496C81E7#OWNED_PROPERTY::63923ED53031BC7A#PROPERTY_DETAIL::60D7384131827414",
+									"investmentRentalIncomePresentIndicator": false,
+									"investorREOPropertyIdentifier": "99"
+								}
+							}
+						}
+					},
+					{
+						"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69",
+						"liabilityHolder": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#LIABILITY_HOLDER::67426FDF93CC8DE3",
+							"address": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#LIABILITY_HOLDER::67426FDF93CC8DE3#ADDRESS::1723727EE148B8A6",
+								"addressLineText": "12367 E ST 12 NW",
+								"cityName": "WASHINGTON,",
+								"postalCode": "20015",
+								"stateCode": "DC"
+							},
+							"name": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#LIABILITY_HOLDER::67426FDF93CC8DE3#NAME::EF3B09822CED43BE",
+								"fullName": "GM Car Loans"
+							}
+						},
+						"liabilityDetail": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#LIABILITY_DETAIL::7DC0AF9CF5840DC8",
+							"liabilityType": "Installment",
+							"liabilityRemainingTermMonthsCount": 120,
+							"liabilityUnpaidBalanceAmount": 71300.0,
+							"liabilityMonthlyPaymentAmount": 889.0,
+							"subjectLoanResubordinationIndicator": true,
+							"liabilityExclusionIndicator": false,
+							"liabilityPayoffStatusIndicator": false,
+							"liabilitySecuredBySubjectPropertyIndicator": false,
+							"liabilityAccountIdentifier": "123451111"
+						},
+						"asset": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#ASSET::18F7BE4832CB29D6",
+							"ownedProperty": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#ASSET::18F7BE4832CB29D6#OWNED_PROPERTY::867C156659A9DE26",
+								"propertyDetail": {
+									"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::D351E6164C881B69#ASSET::18F7BE4832CB29D6#OWNED_PROPERTY::867C156659A9DE26#PROPERTY_DETAIL::0B4DE3652209C3EF",
+									"investmentRentalIncomePresentIndicator": false,
+									"investorREOPropertyIdentifier": "99"
+								}
+							}
+						}
+					},
+					{
+						"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942",
+						"liabilityHolder": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#LIABILITY_HOLDER::B60D6CABBD66C8CA",
+							"address": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#LIABILITY_HOLDER::B60D6CABBD66C8CA#ADDRESS::E259DACE36ED573B"
+							},
+							"name": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#LIABILITY_HOLDER::B60D6CABBD66C8CA#NAME::644FE8C8F231317F",
+								"fullName": "American Express Credit Card"
+							}
+						},
+						"liabilityDetail": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#LIABILITY_DETAIL::89E25DD25282B9B7",
+							"liabilityType": "Revolving",
+							"liabilityUnpaidBalanceAmount": 129.0,
+							"liabilityMonthlyPaymentAmount": 129.0,
+							"subjectLoanResubordinationIndicator": true,
+							"liabilityExclusionIndicator": false,
+							"liabilityPayoffStatusIndicator": false,
+							"liabilitySecuredBySubjectPropertyIndicator": false,
+							"liabilityAccountIdentifier": "8844xxxxx"
+						},
+						"asset": {
+							"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#ASSET::AEDE1DF8846F9D8E",
+							"ownedProperty": {
+								"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#ASSET::AEDE1DF8846F9D8E#OWNED_PROPERTY::C4439CC56ED3A7FF",
+								"propertyDetail": {
+									"id": "LIABILITIES::4691CC990A21AF2C#LIABILITY::8BC83C28CB1D0942#ASSET::AEDE1DF8846F9D8E#OWNED_PROPERTY::C4439CC56ED3A7FF#PROPERTY_DETAIL::E8BD204D0CB08929",
+									"investmentRentalIncomePresentIndicator": false,
+									"investorREOPropertyIdentifier": "99"
+								}
+							}
+						}
+					}
+				]
+			},
+			"assets": {
+				"id": "ASSETS::6E4BC27C23FFAA9E",
+				"asset": [
+					{
+						"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::BCDDA461044678F3"
+					},
+					{
+						"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::BEF8DDC554D571C0"
+					},
+					{
+						"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::0820F6BC09682468"
+					},
+					{
+						"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F",
+						"ownedProperty": {
+							"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F#OWNED_PROPERTY::2A3D73B631B7B33C",
+							"address": {
+								"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F#OWNED_PROPERTY::2A3D73B631B7B33C#ADDRESS::DB3FD08659532F9D",
+								"addressLineText": "175 13TH ST",
+								"cityName": "WASHINGTON",
+								"postalCode": "20013",
+								"stateCode": "DC"
+							},
+							"buildingPermit": {
+								"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F#OWNED_PROPERTY::2A3D73B631B7B33C#BUILDING_PERMIT::D3691F468F54CEA3",
+								"buildingPermitUsageStandardType": "SingleFamily"
+							},
+							"ownedPropertyDetail": {
+								"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F#OWNED_PROPERTY::2A3D73B631B7B33C#OWNED_PROPERTY_DETAIL::D03DEFA551FB44F9",
+								"ownedPropertyRentalIncomeNetAmount": 0.0,
+								"ownedPropertyLienUPBAmount": 0.0,
+								"ownedPropertyLienInstallmentAmount": 0.0,
+								"ownedPropertyMaintenanceExpenseAmount": 0.0,
+								"ownedPropertyRentalIncomeGrossAmount": 0.0
+							},
+							"propertyDetail": {
+								"id": "ASSETS::6E4BC27C23FFAA9E#ASSET::7C60665F2DD4C82F#OWNED_PROPERTY::2A3D73B631B7B33C#PROPERTY_DETAIL::93738DB9A9C95BBB",
+								"propertyEstimatedValueAmount": 0.0
+							}
+						}
+					}
+				]
+			},
+			"loan": {
+				"id": "LOAN::C06377FD17D6E122",
+				"construction": {
+					"id": "LOAN::C06377FD17D6E122#CONSTRUCTION::CA774C2C7C55FD1D",
+					"landAppraisedValueAmount": 225000.0
+				},
+				"loanDetail": {
+					"id": "LOAN::C06377FD17D6E122#LOAN_DETAIL::22D5773E3645E6C0",
+					"totalSubordinateFinancingAmount": 45000.0
+				},
+				"loanData": {
+					"id": "LOAN::C06377FD17D6E122#LOAN_DATA::F61248313591EBDB",
+					"loanDataDetail": {
+						"id": "LOAN::C06377FD17D6E122#LOAN_DATA::F61248313591EBDB#LOAN_DATA_DETAIL::5E9896701647BDD1",
+						"prepaidItemsEstimatedAmount": 5800.0,
+						"sellerPaidClosingCostsAmount": 0.0,
+						"mIAndFundingFeeTotalAmount": 0.0,
+						"applicantPaidDiscountPointsTotalAmount": 2000.0,
+						"refinanceIncludingDebtsToBePaidOffAmount": 0.0,
+						"alterationsImprovementsAndRepairsAmount": 5000.0,
+						"estimatedClosingCostsAmount": 8400.0,
+						"applicationTakenMethodType": "FaceToFace"
+					}
+				},
+				"purchaseCredit": [
+					{
+						"id": "LOAN::C06377FD17D6E122#PURCHASE_CREDIT::1CFF74FFE0E0E5A8",
+						"purchaseCreditType": "EarnestMoney",
+						"purchaseCreditAmount": 1000.0
+					}
+				],
+				"termsOfLoan": {
+					"id": "LOAN::C06377FD17D6E122#TERMS_OF_LOAN::30FC18469EC25893",
+					"mortgageType": "Conventional",
+					"noteAmount": 158000.0,
+					"lienPriorityType": "FirstLien",
+					"loanPurposeType": "Purchase",
+					"noteRatePercent": 3.75
+				},
+				"refinance": {
+					"id": "LOAN::C06377FD17D6E122#REFINANCE::64F8CCF2FD7262D8",
+					"currentFirstMortgageHolderType": "FRE"
+				},
+				"loanIdentifier": [
+					{
+						"id": "LOAN::C06377FD17D6E122#LOAN_IDENTIFIER::D3E0C337AC67DB4B",
+						"loanIdentifier": "222001000071380",
+						"loanIdentifierType": "InvestorLoan"
+					},
+					{
+						"id": "LOAN::C06377FD17D6E122#LOAN_IDENTIFIER::99E595129BA34927",
+						"loanIdentifier": "2455689688",
+						"loanIdentifierType": "AgencyCase"
+					},
+					{
+						"id": "LOAN::C06377FD17D6E122#LOAN_IDENTIFIER::EA58D6EA1D524A82",
+						"loanIdentifier": "IAUISECEMP",
+						"loanIdentifierType": "LenderCase"
+					}
+				],
+				"governmentLoan": {
+					"id": "LOAN::C06377FD17D6E122#GOVERNMENT_LOAN::339352AF0EB27BA3"
+				},
+				"amortizationRule": {
+					"id": "LOAN::C06377FD17D6E122#AMORTIZATION_RULE::899430EE01360067",
+					"amortizationType": "Fixed",
+					"amortizationTypeOtherDescription": "Balloon",
+					"loanAmortizationPeriodCount": 360,
+					"loanAmortizationPeriodType": "Month"
+				}
+			},
+			"propertyOwner": {
+				"id": "PROPERTY_OWNER::1FD8490E3943071F",
+				"relationshipVestingType": "Other",
+				"relationshipVestingTypeOtherDescription": "Tenant in common"
+			},
+			"document": {
+				"id": "DOCUMENT::1DD8490E39430711",
+				"documentClassification": {
+					"id": "DOCUMENT::1DD8490E39430711#DOCUMENT_CLASSIFICATION::1DD8490E39430712",
+					"documentClassificationDetail": {
+						"id": "DOCUMENT::1DD8490E39430711#DOCUMENT_CLASSIFICATION::1DD8490E39430712#DOCUMENT_CLASSIFICATION_DETAIL::1DD8490E39430713",
+						"documentFormIssuingEntityVersionIdentifier": "URLA_2020"
+					}
+				}
+			}
+		},
+		"created": "2020-11-24T14:16:14",
+		"modified": "2020-11-24T14:16:14",
+		"conversionDateTime": "2020-11-24T14:16:19.463925",
+		"metadata": {
+			"updateReason": "FNM_UPLOADED",
+			"metadataCreated": "2020-11-24T14:16:10.530Z",
+			"metadataModified": "2020-11-24T14:16:19.471Z"
+		}
+	}
+]
